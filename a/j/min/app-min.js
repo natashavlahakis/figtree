@@ -1,0 +1,1 @@
+$(document).foundation(),$(".menu-icon").click(function(){});
