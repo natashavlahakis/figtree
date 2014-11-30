@@ -2,3 +2,6 @@
 @import "../bower_components/foundation/scss/foundation";
 
 body {padding-top: 70px;}
+         
+.masonry-brick { width: 440px; margin: 10px; float: left;  }
+#masonryContainer { width: 0 auto; }            

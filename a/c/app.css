@@ -5228,3 +5228,7 @@ th.hide-for-touch { display: table-cell !important; }
   td.show-for-print { display: table-cell !important; }
   th.show-for-print { display: table-cell !important; } }
 body { padding-top: 70px; }
+
+.masonry-brick { width: 440px; margin: 10px; float: left; }
+
+#masonryContainer { width: 0 auto; }
