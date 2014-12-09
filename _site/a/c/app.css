@@ -5227,8 +5227,6 @@ th.hide-for-touch { display: table-cell !important; }
   tr.show-for-print { display: table-row !important; }
   td.show-for-print { display: table-cell !important; }
   th.show-for-print { display: table-cell !important; } }
-body { padding-top: 70px; }
+body { font-family: "minion-pro", serif; padding-top: 70px; }
 
-.masonry-brick { width: 440px; margin: 10px; float: left; }
-
-#masonryContainer { width: 0 auto; }
+.alt-font { font-family: "myriad-pro", sans-serif; font-style: normal; font-weight: 700; }

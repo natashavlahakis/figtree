@@ -1,7 +1,11 @@
 @import "settings";
 @import "../bower_components/foundation/scss/foundation";
-
-body {padding-top: 70px;}
-         
-.masonry-brick { width: 440px; margin: 10px; float: left;  }
-#masonryContainer { width: 0 auto; }            
+ body {
+  font-family: "minion-pro", serif;
+  padding-top: 70px;
+}
+.alt-font {
+  font-family: "myriad-pro", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
