@@ -1,5 +1,6 @@
 @import "settings";
 @import "../bower_components/foundation/scss/foundation";
+
  body {
   font-family: "minion-pro", serif;
   padding-top: 70px;
@@ -9,3 +10,12 @@
   font-style: normal;
   font-weight: 700;
 }
+
+.border {
+  border-bottom: 1px solid $primary-color;
+  line-height: 1em;
+  display: inline-block;
+}
+
+/* Top Bar */
+.top-bar { border-bottom: 1px solid $primary-color }
