@@ -5,17 +5,20 @@
   font-family: "minion-pro", serif;
   padding-top: 70px;
 }
+.logo h1 { font-weight: 700; font-size: $h1-font-size; }
 .alt-font {
   font-family: "myriad-pro", sans-serif;
   font-style: normal;
   font-weight: 700;
 }
-
 .border {
   border-bottom: 1px solid $primary-color;
   line-height: 1em;
   display: inline-block;
 }
-
 /* Top Bar */
-.top-bar { border-bottom: 1px solid $primary-color }
+.top-bar { border-bottom: 1px solid $primary-color; }
+/* Off-Canvas */
+.tab-bar { border-bottom: 1px solid $primary-color; }
+.tab-bar .left-small { border-right: none; }
+.tab-bar .right-small { border-left: none; }
