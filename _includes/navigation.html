@@ -1,0 +1,86 @@
+<!-- LARGE SCREEN TOP BAR MENU -->
+<section class="navigation-section show-for-medium-up">
+
+  <!-- SHOW FOR LARGE AND UP ONLY -->
+  <div class="row">
+
+    <div class="large-12 columns">
+      <div class="fixed">
+        <!-- TOP BAR INITIALIZATION -->
+
+        <nav class="top-bar" data-topbar aria-hidden="true">
+          <div style="max-width: 1000px; margin: 0 auto">
+            <ul class="title-area">
+              <li class="name">
+                <h1><a href="{{ site.url }}">figtree</a></h1>
+              </li>
+              <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+              <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+            </ul>
+          </div>
+
+          <section class="top-bar-section">
+            <!-- Left Nav Section -->
+            <ul class="left">
+              <li><a href="/projecs/">Projects</a></li>
+              <li><a href="/about/">About</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </section>
+        </nav> <!-- END NAV.TOP-BAR -->
+
+      </div><!-- fixed -->
+    </div> <!-- END 12 COLUMNS -->
+  </div> <!-- END ROW -->
+</section> <!-- END SECTION.NAVIGATION-SECTION -->
+
+<!-- OFF CANVAS SECTIONS WRAPPING THE MAIN CONTENT -->
+<div class="off-canvas-wrap" data-offcanvas>
+  <div class="inner-wrap">
+
+    <!-- OFF CANVAS MENU BAR -->
+    <div class="fixed hide-for-medium-up">
+      <nav class="tab-bar">
+
+        <section class="right-small">
+          <a class="right-off-canvas-toggle menu-icon" ><span></span></a>
+        </section>
+
+        <section class="left tab-bar-section">
+          <h1><a href="{{ site.url }}">figtree</a></h1>
+        </section>
+
+      </nav> <!-- END NAV.TAB-BAR HIDE-FOR-LARGE-UP -->
+    </div>
+
+    <!-- OFF CANVAS MENU -->
+    <aside class="right-off-canvas-menu">
+      <ul class="off-canvas-list">
+        <li><label>Projects</label></li>
+        <li><a href="index.html">Project 1</a></li>
+        <li><a href="index.html">Project 2</a></li>
+        <li><a href="index.html">Project 3</a></li>
+        <li><a href="index.html">Project 4</a></li>
+        <li><a href="index.html">Project 5</a></li>
+        <li><a href="index.html">Project 6</a></li>
+        <li><a href="index.html">Project 7</a></li>
+      </ul>
+      <ul class="off-canvas-list">
+        <li class="has-dropdown"><a href="/about/">About</a></li>
+        <li class="has-dropdown"><a href="/blog/">Blog</a></li>
+      </ul>
+
+      <div>
+        <h5>phone</h5>
+        <p>+1(123)456-7890</p>
+        <h5>email</h5>
+        <p><a href="#">g.baltar@example.com</a></p>
+        <h5>social</h5>
+        <ul class="no-bullet">
+          <li>List item</li>
+          <li>List item</li>
+          <li>List item</li>
+        </ul>
+      </div>
+
+    </aside>
