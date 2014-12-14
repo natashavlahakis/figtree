@@ -3,5 +3,5 @@ title:        figtree
 email:        your_email@example.com
 author:       Natasha Vlahakis
 description:  "A Digital Agency based in Barbados."
-baseurl:      ""
+baseurl:      "test"
 url:          "http://natashavlahakis.github.io/figtree/"
