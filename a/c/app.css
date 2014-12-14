@@ -2388,16 +2388,16 @@ body { font-family: "minion-pro", serif; padding-top: 70px; }
 .border { border-bottom: 2px solid limegreen; line-height: 1em; display: inline-block; }
 
 /* Top Bar */
-.top-bar { border-bottom: 2px solid limegreen; }
+.top-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.1); }
 
 .top-bar .name h1 { font-weight: 700; font-size: 2.3125rem; }
 
 .top-bar-section li:not(.has-form) a:not(.button) { padding: 10px 54px; }
 
-.top-bar-section ul li > a { font-size: 1.125rem; }
+.top-bar-section ul li > a { font-size: 1.125rem; float: left; }
 
 /* Off-Canvas */
-.tab-bar { border-bottom: 2px solid limegreen; }
+.tab-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.1); }
 
 .tab-bar .left-small { border-right: none; }
 
