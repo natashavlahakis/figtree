@@ -11,17 +11,17 @@
   font-weight: 700;
 }
 .border {
-  border-bottom: 1px solid $primary-color;
+  border-bottom: 2px solid $primary-color;
   line-height: 1em;
   display: inline-block;
 }
 /* Top Bar */
-.top-bar { border-bottom: 1px solid $primary-color; }
+.top-bar { border-bottom: 2px solid $primary-color; }
 .top-bar .name h1 { font-weight: 700; font-size: $h2-font-size; }
 .top-bar-section li:not(.has-form) a:not(.button) { padding: 10px 54px; }
 .top-bar-section ul li > a { font-size: $h5-font-size; }
 /* Off-Canvas */
-.tab-bar { border-bottom: 1px solid $primary-color; }
+.tab-bar { border-bottom: 2px solid $primary-color; }
 .tab-bar .left-small { border-right: none; }
 .tab-bar .right-small { border-left: none; }
 .tab-bar-section h1 { font-weight: 700; font-size: $h3-font-size; }

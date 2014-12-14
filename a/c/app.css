@@ -2385,10 +2385,10 @@ body { font-family: "minion-pro", serif; padding-top: 70px; }
 
 .alt-font { font-family: "myriad-pro", sans-serif; font-style: normal; font-weight: 700; }
 
-.border { border-bottom: 1px solid limegreen; line-height: 1em; display: inline-block; }
+.border { border-bottom: 2px solid limegreen; line-height: 1em; display: inline-block; }
 
 /* Top Bar */
-.top-bar { border-bottom: 1px solid limegreen; }
+.top-bar { border-bottom: 2px solid limegreen; }
 
 .top-bar .name h1 { font-weight: 700; font-size: 2.3125rem; }
 
@@ -2397,7 +2397,7 @@ body { font-family: "minion-pro", serif; padding-top: 70px; }
 .top-bar-section ul li > a { font-size: 1.125rem; }
 
 /* Off-Canvas */
-.tab-bar { border-bottom: 1px solid limegreen; }
+.tab-bar { border-bottom: 2px solid limegreen; }
 
 .tab-bar .left-small { border-right: none; }
 
