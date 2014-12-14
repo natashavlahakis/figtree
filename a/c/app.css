@@ -2392,7 +2392,7 @@ body { font-family: "minion-pro", serif; padding-top: 70px; }
 
 .top-bar .name h1 { font-weight: 700; font-size: 2.3125rem; }
 
-.top-bar-section li:not(.has-form) a:not(.button) { padding: 10px 50px; }
+.top-bar-section li:not(.has-form) a:not(.button) { padding: 10px 55px; }
 
 .top-bar-section ul li > a { font-size: 1.125rem; }
 
