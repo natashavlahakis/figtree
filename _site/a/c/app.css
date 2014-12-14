@@ -2385,18 +2385,28 @@ body { font-family: "minion-pro", serif; padding-top: 70px; }
 
 .alt-font { font-family: "myriad-pro", sans-serif; font-style: normal; font-weight: 700; }
 
-.border { border-bottom: 1px solid limegreen; line-height: 1em; display: inline-block; }
+.border { border-bottom: 2px solid limegreen; line-height: 1em; display: inline-block; }
 
 /* Top Bar */
-.top-bar { border-bottom: 1px solid limegreen; }
+.top-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
 
 .top-bar .name h1 { font-weight: 700; font-size: 2.3125rem; }
 
+.top-bar-section li:not(.has-form) a:not(.button) { padding: 10px 54px; }
+
+.top-bar-section ul li > a { font-size: 1.125rem; float: left; }
+
 /* Off-Canvas */
-.tab-bar { border-bottom: 1px solid limegreen; }
+.tab-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
 
 .tab-bar .left-small { border-right: none; }
 
 .tab-bar .right-small { border-left: none; }
 
 .tab-bar-section h1 { font-weight: 700; font-size: 1.6875rem; }
+
+/* Main Section */
+.main-section { margin-bottom: 4.5em; }
+
+/* Footer Section */
+.footer-section { margin-top: 6.25em; margin-bottom: 15em; }
