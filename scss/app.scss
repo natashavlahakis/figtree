@@ -18,6 +18,8 @@
 /* Top Bar */
 .top-bar { border-bottom: 1px solid $primary-color; }
 .top-bar .name h1 { font-weight: 700; font-size: $h2-font-size; }
+.top-bar-section li:not(.has-form) a:not(.button) { padding: 15px 60px; }
+.top-bar-section ul li > a { rem-calc(18); }
 /* Off-Canvas */
 .tab-bar { border-bottom: 1px solid $primary-color; }
 .tab-bar .left-small { border-right: none; }
