@@ -18,8 +18,8 @@
 /* Top Bar */
 .top-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
 .top-bar .name h1 { font-weight: 700; font-size: $h2-font-size; }
-.top-bar-section li:not(.has-form) a:not(.button) { padding: 10px 54px; }
-.top-bar-section ul li > a { font-size: $h5-font-size; float: left;}
+.top-bar-section li:not(.has-form) a:not(.button) { padding: 10px 54px 0px; }
+.top-bar-section ul li > a { font-size: $h5-font-size; }
 /* Off-Canvas */
 .tab-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
 .tab-bar .left-small { border-right: none; }
