@@ -2390,13 +2390,13 @@ body { font-family: "minion-pro", serif; padding-top: 70px; }
 /* Top Bar */
 .top-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
 
-.top-bar .name h1 { font-weight: 700; font-size: 2.3125rem; }
+.top-bar .name h1 { font-weight: 700; font-size: 2.3125rem; padding-right: 20px; }
 
-.top-bar-section li:not(.has-form) a:not(.button), .top-bar-section li.active:not(.has-form) a:not(.button) { padding: 10px 54px; }
+.top-bar-section li.active:not(.has-form) a:not(.button) { border-bottom: 2px solid rgba(50, 205, 50, 0.5); }
 
-.top-bar-section li.active:not(.has-form) a:not(.button) { border-bottom: 1px solid red; }
+.top-bar-section ul li > a { font-size: 1.125rem; letter-spacing: 0.5em; height: 60px; padding: 0.75em 120px 0.5em 0 !important; }
 
-.top-bar-section ul li > a { font-size: 1.125rem; letter-spacing: 0.5em; }
+.top-bar-section ul li > a:hover { border-bottom: 2px solid rgba(50, 205, 50, 0.5); }
 
 /* Off-Canvas */
 .tab-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
