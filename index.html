@@ -7,34 +7,41 @@ title: figtree digital agency
 <section class="full-width content-section">
   <div class="row">
 
-    <div class="small-12 large-9 columns">
-      <img src="http://placehold.it/720x440&text=1">
+    <div class="item-wrapper small-12 large-9 columns">
+      <img src="http://etapes.com/system/10467/large/du-noir-et-blanc-des-illusions-et-du-mouvement.jpg">
       <span class="border"><h4>Item Title</h4></span>
     </div>
-    <div class="small-12 medium-6 large-3 columns">
-      <img src="http://placehold.it/220x220&text=2">
+    <div class="item-wrapper small-12 medium-6 large-3 columns">
+      <img src="http://a1.dspnimg.com/data/l/2389657297207_gc6P13bZ_l.jpg">
       <span class="border"><h4>Item Title</h4></span>
     </div>
-    <div class="small-12 medium-6 large-6 large-push-6 columns">
-      <img src="http://placehold.it/470x480&text=3">
+    <div class="item-wrapper small-12 medium-6 large-6 large-push-6 columns">
+      <img src="http://a1.dspnimg.com/data/l/1600173720945_KR8AuBZ7_l.jpg">
       <span class="border"><h4>Item Title</h4></span>
     </div>
-    <div class="small-12 medium-6 large-3 large-pull-6 columns">
-      <img src="http://placehold.it/220x220&text=4">
+    <div class="item-wrapper small-12 medium-6 large-3 large-pull-6 columns">
+      <img src="http://a1.dspnimg.com/data/g/1600175071254_g1Vm3Sp0_g.jpg">
       <span class="border"><h4>Item Title</h4></span>
     </div>
-    <div class="small-12 medium-6 large-3 large-pull-6 columns">
-      <img src="http://placehold.it/220x220&text=5">
+    <div class="item-wrapper small-12 medium-6 large-3 large-pull-6 columns">
+      <img src="http://a1.dspnimg.com/data/g/1177458176698_y0mtg7Yv_g.jpg">
       <span class="border"><h4>Item Title</h4></span>
     </div>
-    <div class="small-12 medium-6 large-8 columns">
-      <img src="http://placehold.it/636x340&text=6">
+    <div class="item-wrapper small-12 medium-6 large-8 columns">
+      <img src="http://a1.dspnimg.com/data/l/1600175519923_iZzfykxP_l.jpg">
       <span class="border"><h4>Item Title</h4></span>
     </div>
-    <div class="small-12 medium-6 large-4 columns">
-      <img src="http://placehold.it/304x340&text=7">
+    <div class="item-wrapper small-12 medium-6 large-4 columns">
+      <img src="http://a1.dspnimg.com/data/l/1600175628080_WuFicqh8_l.jpg">
       <span class="border"><h4>Item Title</h4></span>
     </div>
 
   </div> <!-- END ROW -->
 </section> <!-- END SECTION.CONTENT-SECTION -->
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
