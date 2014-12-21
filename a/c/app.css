@@ -2388,18 +2388,20 @@ body { font-family: "minion-pro", serif; padding-top: 70px; }
 .border { border-bottom: 2px solid limegreen; line-height: 1em; display: inline-block; }
 
 /* Top Bar */
-.top-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
+.top-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.25); }
 
 .top-bar .name h1 { font-weight: 700; font-size: 2.3125rem; padding-right: 20px; }
 
-.top-bar-section li.active:not(.has-form) a:not(.button) { border-bottom: 2px solid rgba(50, 205, 50, 0.5); }
+.top-bar-section li { margin-left: 2em; }
+
+.top-bar-section li.active:not(.has-form) a:not(.button) { border-bottom: 2px solid rgba(50, 205, 50, 0.25); }
 
 .top-bar-section ul li > a { font-size: 1.125rem; letter-spacing: 0.5em; height: 60px; padding: 0.75em 120px 0.5em 0 !important; }
 
-.top-bar-section ul li > a:hover { border-bottom: 2px solid rgba(50, 205, 50, 0.5); }
+.top-bar-section ul li > a:hover { border-bottom: 2px solid rgba(50, 205, 50, 0.25); }
 
 /* Off-Canvas */
-.tab-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
+.tab-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.25); }
 
 .tab-bar .left-small { border-right: none; }
 
