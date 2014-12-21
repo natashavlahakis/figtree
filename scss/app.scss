@@ -17,10 +17,10 @@
 }
 /* Top Bar */
 .top-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
-.top-bar .name h1 { font-weight: 700; font-size: $h2-font-size; padding-right: $topbar-height/3; }
+.top-bar .name h1 { font-weight: 700; font-size: $h2-font-size; padding-right: $topbar-height/3; padding-top: 0.8em; }
 .top-bar-section li { margin-left: 2em; }
 .top-bar-section li.active:not(.has-form) a:not(.button) { border-bottom: 2px solid rgba(50, 205, 50, 0.5); }
-.top-bar-section ul li > a { font-size: $h5-font-size; letter-spacing: 0.5em; height: 60px; padding: 0.75em $topbar-height * 2 0.5em 0!important; }
+.top-bar-section ul li > a { font-size: $h5-font-size; letter-spacing: 0.5em; height: 120px; padding: 2em $topbar-height 0.5em 0!important; }
 //.top-bar-section ul li > a:active {  }
 .top-bar-section ul li > a:hover { border-bottom: 2px solid rgba(50, 205, 50, 0.5); }
 /* Off-Canvas */
