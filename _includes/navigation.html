@@ -21,10 +21,15 @@
 
           <section class="top-bar-section">
             <!-- Left Nav Section -->
-            <ul class="left">
-              <li><a href="{{ site.url }}/projecs/">Projects</a></li>
-              <li><a href="{{ site.url }}/about/">About</a></li>
-              <li><a href="{{ site.url }}/contact/">Contact</a></li>
+            {% assign pages = site.pages | sort:"weight"  %}
+            <ul>
+              {% for p in pages %}
+                {% if p.menu == 'main' %}
+                <li {% if p.url == page.url %}class="active"{% endif %}>
+                  <a href="{{ p.url }}">{{ p.title }}</a>
+                </li>
+                {% endif %}
+              {% endfor %}
             </ul>
           </section>
         </nav> <!-- END NAV.TOP-BAR -->
@@ -65,7 +70,7 @@
         <li><a href="index.html">Project 6</a></li>
         <li><a href="index.html">Project 7</a></li>
       </ul>
-      
+
       <div class="menu-item">
         <h5><a href="/about/">About</a></h5>
         <h5><a href="/blog/">Blog</a></h5>
