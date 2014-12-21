@@ -4,8 +4,11 @@ layout : default
 categories : [projects]
 ---
 <div class="small-10 small-centered large-6 large-centered columns">
+  
   <h1>{{ post.title }}</h1>
+  
   <img src="{{ site.url }}/a/i/img-1.jpg">
+  
   <p>Summis quibusdam ut voluptatibus. Se excepteur sed quibusdam iis eram ab 
   aliquip. Possumus dolor summis consequat esse nam non o varias consequat ex anim 
   quibusdam tempor o se aut culpa probant, cernantur an doctrina, o varias sunt 
@@ -30,4 +33,5 @@ categories : [projects]
   iudicem cillum aliquip si quis laboris ubi quis quem, multos an sed lorem 
   mandaremus, incurreret dolor iudicem incurreret quo a sunt offendit e qui quae 
   legam a iudicem.</p>
+
 </div>
