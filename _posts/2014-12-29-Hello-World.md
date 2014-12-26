@@ -1,7 +1,7 @@
 ---
-title :  Hello World
-layout : default
-categories : [projects]
+layout: default
+categories: projects
+image: /a/i/img-1.jpg
 ---
 <div class="small-10 small-centered large-6 large-centered columns">
   
@@ -21,7 +21,8 @@ categories : [projects]
   possumus lorem, probant duis ingeniis, arbitror multos ad fabulas coniunctione, 
   si ad quae doctrina eu appellat sed probant, pariatur enim a aliquip eruditionem 
   ex ne illum varias sint cernantur.</p>
-  <p>Eu si consectetur ne nam duis fugiat quem laborum ea mandaremus minim appellat 
+  <h2>Eu si consectetur</h2>
+  <p>ne nam duis fugiat quem laborum ea mandaremus minim appellat 
   voluptate, appellat multos tamen sed ipsum. Quae ingeniis ut arbitrantur, eram 
   ut a amet expetendis si id litteris instituendarum, an o quorum sint legam. Ad 
   aute a fore. Laborum aute laborum. Ab nescius fidelissimae iis mandaremus ubi 
