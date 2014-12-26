@@ -47,15 +47,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/2014-12-29-Hello-World.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2014-12-29-Hello-World.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_posts\/2014-12-29-Hello-World.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -65,15 +56,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_posts\/2014-12-29-Hello-World.md",
 		"outputAbbreviatedPath": "\/_posts\/2014-12-29-Hello-World.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/2014\/12\/29\/Hello-World.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/2014\/12\/29\/Hello-World.html",
-		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -112,6 +94,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/a\/i\/img-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152473,
+		"inputAbbreviatedPath": "\/_site\/a\/i\/img-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/a\/i\/img-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_site\/a\/j\/app.js": {
 		"fileType": 64,
@@ -3199,6 +3192,17 @@
 		"initialSize": 1.11656e+07,
 		"inputAbbreviatedPath": "\/a\/i\/img-1.jpg",
 		"outputAbbreviatedPath": "\/a\/i\/img-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/a\/i\/img-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8.52182e+06,
+		"inputAbbreviatedPath": "\/a\/i\/img-2.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/img-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
