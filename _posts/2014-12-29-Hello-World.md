@@ -7,7 +7,7 @@ image: /a/i/img-1.jpg
   
   <h1>{{ post.title }}</h1>
   
-  <img src="{{post.image}}">
+  <img src="{{ site.url }}{{post.image}}">
   
   <p>Summis quibusdam ut voluptatibus. Se excepteur sed quibusdam iis eram ab 
   aliquip. Possumus dolor summis consequat esse nam non o varias consequat ex anim 
@@ -16,7 +16,8 @@ image: /a/i/img-1.jpg
   aliqua aute illum. O multos ad esse si multos instituendarum probant enim 
   proident, ubi qui reprehenderit, si admodum praetermissum, laboris dolor in 
   probant reprehenderit nam quae se si enim iudicem, multos cupidatat transferrem, 
-  fabulas exercitation te iudicem. Doctrina ut labore. Si aute officia appellat, 
+  fabulas exercitation te iudicem.</p>
+  <p>Doctrina ut labore. Si aute officia appellat, 
   expetendis illum malis ea quem. Se nisi cupidatat an quibusdam legam minim 
   possumus lorem, probant duis ingeniis, arbitror multos ad fabulas coniunctione, 
   si ad quae doctrina eu appellat sed probant, pariatur enim a aliquip eruditionem 
