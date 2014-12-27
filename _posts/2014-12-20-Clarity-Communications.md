@@ -2,7 +2,6 @@
 layout: default
 categories: projects
 default-image: /a/i/img-1.jpg
-small-image: /a/i/img-1-small.jpg
 medium-image: /a/i/img-1-medium.jpg
 large-image: /a/i/img-1-large.jpg
 ---
