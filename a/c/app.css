@@ -2387,6 +2387,8 @@ body { font-family: "minion-pro", serif; padding-top: 70px; }
 
 .border { border-bottom: 2px solid limegreen; line-height: 1em; display: inline-block; }
 
+.border a { color: #000000; }
+
 /* Top Bar */
 .top-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
 

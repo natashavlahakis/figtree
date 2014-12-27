@@ -47,24 +47,27 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/2014-12-29-Hello-World.md": {
+	"\/_posts\/2014-12-20-Hello-World.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2014-12-29-Hello-World.md",
-		"outputAbbreviatedPath": "\/_posts\/2014-12-29-Hello-World.html",
+		"inputAbbreviatedPath": "\/_posts\/2014-12-20-Hello-World.md",
+		"outputAbbreviatedPath": "\/_posts\/2014-12-20-Hello-World.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/a\/c\/app.css": {
-		"fileType": 16,
+	"\/_posts\/2014-12-26-Boxing-Day.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/a\/c\/app.css",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/_posts\/2014-12-26-Boxing-Day.md",
+		"outputAbbreviatedPath": "\/_posts\/2014-12-26-Boxing-Day.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -3055,11 +3058,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/projects\/2014\/12\/29\/Hello-World.html": {
+	"\/_site\/projects\/2014\/12\/20\/Hello-World.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/2014\/12\/29\/Hello-World.html",
+		"inputAbbreviatedPath": "\/_site\/projects\/2014\/12\/20\/Hello-World.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/projects\/2014\/12\/26\/Boxing-Day.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/projects\/2014\/12\/26\/Boxing-Day.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3084,22 +3096,6 @@
 		"outputAbbreviatedPath": "\/_site\/README.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/scss\/app.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/scss\/app.scss",
-		"outputAbbreviatedPath": "\/a\/c\/app.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
 		},
 	"\/_site\/scss\/ie.scss": {
 		"createSourceMap": 0,
