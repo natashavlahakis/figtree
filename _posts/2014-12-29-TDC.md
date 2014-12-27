@@ -3,7 +3,6 @@ layout: default
 categories: projects
 default-image: /a/i/img-1.jpg
 medium-image: /a/i/img-1-medium.jpg
-large-image: /a/i/img-1-large.jpg
 ---
 <div class="small-10 small-centered large-6 large-centered columns">
   
