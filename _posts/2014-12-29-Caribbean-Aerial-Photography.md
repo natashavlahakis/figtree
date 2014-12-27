@@ -8,7 +8,7 @@ medium-image: /a/i/img-2-medium.jpg
   
   <h1>{{ post.title }}</h1>
   
-  <img src="{{ site.url }}/a/i/img-1.jpg">
+  <img src="{{ site.url }}/a/i/img-1-medium.jpg">
   
   <p>Summis quibusdam ut voluptatibus. Se excepteur sed quibusdam iis eram ab 
   aliquip. Possumus dolor summis consequat esse nam non o varias consequat ex anim 
