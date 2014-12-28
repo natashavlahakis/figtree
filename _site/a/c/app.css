@@ -2385,25 +2385,23 @@ body { font-family: "minion-pro", serif; padding-top: 70px; }
 
 .alt-font { font-family: "freight-sans-pro",sans-serif; font-style: normal; font-weight: 700; }
 
-.border { border-bottom: 2px solid limegreen; line-height: 1em; display: inline-block; }
-
-.border a { color: #000000; }
+.transition, .item-wrapper a.item-link:focus .item-info p, .item-wrapper a.item-link:hover .item-info p { transition: color 200ms ease-in-out; -webkit-transition: color 200ms ease-in-out; }
 
 /* Top Bar */
-.top-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
+.top-bar .name h1 { font-weight: 700; font-size: 2.3125rem; }
 
-.top-bar .name h1 { font-weight: 700; font-size: 2.3125rem; padding-right: 60px; padding-top: 0.8em; }
+.top-bar .name h1 a { padding: 0.8em 60px 0 0.5em; }
 
 .top-bar-section li { margin-left: 2em; }
 
-.top-bar-section li.active:not(.has-form) a:not(.button) { border-bottom: 2px solid rgba(50, 205, 50, 0.5); }
+.top-bar-section li.active:not(.has-form) a:not(.button) { border-bottom: 2px solid rgba(0, 0, 0, 0.9); }
 
 .top-bar-section ul li > a { font-size: 1.125rem; letter-spacing: 0.5em; height: 120px; padding: 2em 120px 0.5em 0 !important; }
 
-.top-bar-section ul li > a:hover { border-bottom: 2px solid rgba(50, 205, 50, 0.5); }
+.top-bar-section ul li > a:hover { border-bottom: 2px solid rgba(0, 0, 0, 0.9); }
 
 /* Off-Canvas */
-.tab-bar { border-bottom: 1px solid rgba(50, 205, 50, 0.5); }
+.tab-bar { border-bottom: 1px solid rgba(0, 0, 0, 0.9); }
 
 .tab-bar .left-small { border-right: none; }
 
@@ -2437,3 +2435,13 @@ ul.off-canvas-list li a { line-height: 1.75; padding: 0; }
 
 /* Projects */
 .item-wrapper { margin: 1em 0; }
+
+.item-wrapper a.item-link:focus .item-image, .item-wrapper a.item-link:hover .item-image { background-color: limegreen; }
+
+.item-wrapper a.item-link:focus .item-image img, .item-wrapper a.item-link:focus .item-image video, .item-wrapper a.item-link:hover .item-image img, .item-wrapper a.item-link:hover .item-image video { -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)" !important; filter: alpha(opacity=20) !important; -moz-opacity: 0.20 !important; -khtml-opacity: 0.20 !important; opacity: 0.20 !important; transition: all 200ms ease-in-out; -webkit-transition: all 200ms ease-in-out; }
+
+.item-wrapper a.item-link:focus .item-info p, .item-wrapper a.item-link:hover .item-info p { color: #000000; }
+
+.item-wrapper h4 { margin-item-info: 0; margin-bottom: 0; font-size: inherit; font-weight: bold; }
+
+.item-wrapper p { color: #AAAAAA; font-weight: normal; }

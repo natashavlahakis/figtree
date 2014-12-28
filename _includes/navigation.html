@@ -24,18 +24,11 @@
             {% assign pages = site.pages | sort:"weight"  %}
             <ul>
               {% for p in pages %}
-              {% if p.menu == 'main' %}
-              <li {% if p.url == page.url %}class="active"{% endif %}>
-                <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
-              </li>
-              {% endif %}
-              {% endfor %}
-              {% for category in site.categories %}
-              <li>
-                <a href="/{{ category | first | slugize }}/">
-                {{ category | first }}
-              </a>
-              </li>
+                {% if p.menu == 'main' %}
+                <li {% if p.url == page.url %}class="active"{% endif %}>
+                  <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
+                </li>
+                {% endif %}
               {% endfor %}
             </ul>
           </section>

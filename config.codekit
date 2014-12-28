@@ -131,24 +131,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/2014\/12\/26\/Business-Barbados.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/2014\/12\/26\/Business-Barbados.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/a\/c\/app.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/a\/c\/app.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/a\/c\/ie.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -176,6 +158,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/a\/i\/img-1-medium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255540,
+		"inputAbbreviatedPath": "\/_site\/a\/i\/img-1-medium.jpg",
+		"outputAbbreviatedPath": "\/_site\/a\/i\/img-1-medium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/a\/i\/img-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -183,6 +176,17 @@
 		"initialSize": 152473,
 		"inputAbbreviatedPath": "\/_site\/a\/i\/img-1.jpg",
 		"outputAbbreviatedPath": "\/_site\/a\/i\/img-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/a\/i\/img-2-medium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 326760,
+		"inputAbbreviatedPath": "\/_site\/a\/i\/img-2-medium.jpg",
+		"outputAbbreviatedPath": "\/_site\/a\/i\/img-2-medium.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3231,22 +3235,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/scss\/app.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/scss\/app.scss",
-		"outputAbbreviatedPath": "\/a\/c\/app.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
 	"\/_site\/scss\/ie.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -3331,13 +3319,35 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/a\/i\/img-1-medium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255540,
+		"inputAbbreviatedPath": "\/a\/i\/img-1-medium.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/img-1-medium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/a\/i\/img-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.11656e+07,
+		"initialSize": 142469,
 		"inputAbbreviatedPath": "\/a\/i\/img-1.jpg",
 		"outputAbbreviatedPath": "\/a\/i\/img-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/a\/i\/img-2-medium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 326760,
+		"inputAbbreviatedPath": "\/a\/i\/img-2-medium.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/img-2-medium.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3346,7 +3356,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8.52182e+06,
+		"initialSize": 160231,
 		"inputAbbreviatedPath": "\/a\/i\/img-2.jpg",
 		"outputAbbreviatedPath": "\/a\/i\/img-2.jpg",
 		"outputPathIsOutsideProject": 0,
