@@ -104,8 +104,8 @@ $white       : #FFFFFF;
 // $smoke       : #EEEEEE;
 // $gainsboro   : #DDDDDD;
 // $iron        : #CCCCCC;
-$base        : #AAAAAA;
-// $aluminum    : #999999;
+// $base        : #AAAAAA;
+$aluminum    : #999999;
 // $jumbo       : #888888;
 // $monsoon     : #777777;
 // $steel       : #666666;
@@ -117,7 +117,7 @@ $black       : #000000;
 
 // We use these as default colors throughout
 $primary-color: limegreen;
-$secondary-color: $base;
+$secondary-color: $aluminum;
 $alert-color: red;
 $success-color: limegreen;
 $warning-color: yellow;
