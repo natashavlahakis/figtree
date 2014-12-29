@@ -32,7 +32,7 @@ body {
   li {
     margin-left: 2em;  
     &.active {
-      border-bottom: 2px solid rgba(0, 0, 0, 0.9);
+      color: $primary-color;
     }
   }
   ul li > a {
@@ -41,7 +41,7 @@ body {
     height: 120px;
     padding: 2em 0.25em 0!important;
     &:hover, &:focus {
-      border-bottom: 2px solid rgba(0, 0, 0, 0.9);
+      color: $primary-color;
     }
   }
 }
