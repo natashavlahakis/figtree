@@ -83,12 +83,24 @@
         <h5>phone</h5>
         <p>+1(123)456-7890</p>
         <h5>email</h5>
-        <p><a href="#">g.baltar@example.com</a></p>
+        <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         <h5>social</h5>
         <ul class="no-bullet">
-          <li>behance</li>
-          <li>linkedin</li>
-          <li>twitter</li>
+          {% if site.behance %}
+          <li>
+            <a href="https://behance.com/{{ site.behance }}">behance</a>
+          </li>
+          {% endif %}
+          {% if site.linkedin %}
+          <li>
+            <a href="https://linkedin.com/{{ site.linkedin }}">linkedin</a>
+          </li>
+          {% endif %}
+          {% if site.twitter %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter }}">twitter</a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 

@@ -1,7 +1,10 @@
 # Site settings
 title:        figtree
-email:        your_email@example.com
+email:        hello@figtree-digital.com
 author:       Natasha Vlahakis
 description:  "A Digital Agency based in Barbados."
 baseurl:      "http://natashavlahakis.github.io/figtree"
 url:          "http://natashavlahakis.github.io/figtree"
+behance:      figtreedigital
+linkedin:     figtreedigital
+twitter:      figtreedigital
