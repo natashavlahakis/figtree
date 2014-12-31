@@ -1383,9 +1383,9 @@ $topbar-dropdown-bg: none;
 
 // Set the link colors and styles for top-level nav
 $topbar-link-color: $black;
-$topbar-link-color-hover: $black;
-$topbar-link-color-active: $black;
-$topbar-link-color-active-hover: $black;
+$topbar-link-color-hover: $primary-color;
+$topbar-link-color-active: $primary-color;
+$topbar-link-color-active-hover: $primary-color;
 // $topbar-link-weight: $font-weight-normal;
 // $topbar-link-font-size: rem-calc(13);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
