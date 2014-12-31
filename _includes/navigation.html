@@ -32,10 +32,10 @@
               {% endfor %}
 
               <!-- {% for category in site.categories %}
-              <a href="/{{ category | first | slugize }}/">
-                {{ category | first }}
-              </a>
-              {% endfor %} -->
+<a href="/{{ category | first | slugize }}/">
+{{ category | first }}
+</a>
+{% endfor %} -->
 
             </ul>
           </section>
@@ -69,13 +69,9 @@
     <aside class="right-off-canvas-menu">
       <ul class="off-canvas-list">
         <li><label>Projects</label></li>
-        <li><a href="index.html">Project 1</a></li>
-        <li><a href="index.html">Project 2</a></li>
-        <li><a href="index.html">Project 3</a></li>
-        <li><a href="index.html">Project 4</a></li>
-        <li><a href="index.html">Project 5</a></li>
-        <li><a href="index.html">Project 6</a></li>
-        <li><a href="index.html">Project 7</a></li>
+        {% for post in site.posts %}
+        <li><a class="item-link" href='{{ site.url }}{{post.url}}'>{{ post.title }}</a></li>
+        {% endfor %}
       </ul>
 
       <div class="menu-item">
@@ -90,9 +86,9 @@
         <p><a href="#">g.baltar@example.com</a></p>
         <h5>social</h5>
         <ul class="no-bullet">
-          <li>List item</li>
-          <li>List item</li>
-          <li>List item</li>
+          <li>behance</li>
+          <li>linkedin</li>
+          <li>twitter</li>
         </ul>
       </div>
 

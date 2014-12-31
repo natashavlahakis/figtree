@@ -35,7 +35,6 @@ body {
   ul li > a {
     font-size: $h6-font-size;
     letter-spacing: 0.2em;
-    height: 120px;
     padding: 2em 0.5em 0!important;
     &:hover {
       @extend .transition;
