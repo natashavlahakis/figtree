@@ -27,6 +27,7 @@
               {% if p.menu == 'main' %}
               <li {% if p.url == page.url %}class="active"{% endif %}>
                 <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
+                <span></span>
               </li>
               {% endif %}
               {% endfor %}
