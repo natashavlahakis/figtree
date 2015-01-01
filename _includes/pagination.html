@@ -10,5 +10,9 @@
   <div class="counter">
     <h1>&nbsp;</h1>
     <div class="divideCounter"></div>
-    14	</div>
+    {% for post in site.categories.projects %}
+    {% capture post_count %} {{ post_count | plus: 1 }} {% endcapture %}
+    {% endfor %}
+    {{ post_count }}
+  </div>
 </div>
