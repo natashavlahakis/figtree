@@ -1,0 +1,14 @@
+<div class="pagination">
+  {% if page.previous.url %}
+  <a href="{{page.previous.url}}" rel="prev"><span class="nextArrow"></span></a>	
+  {% endif %} 
+  {% if page.next.url %}
+  <a href="{{page.next.url}}" rel="next"><span class="prevArrow"></span></a>		
+  {% endif %}
+  <a href="{{ site.url }}"><div class="overview"></div></a>
+
+  <div class="counter">
+    <h1>&nbsp;</h1>
+    <div class="divideCounter"></div>
+    14	</div>
+</div> 
