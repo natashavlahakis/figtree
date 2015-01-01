@@ -1,9 +1,9 @@
 <div class="pagination">
   {% if page.previous.url %}
-  <a href="{{ page.previous.url }}" rel="prev"><span class="nextArrow"></span></a>	
-  {% endif %} 
+  <a href="{{ site.baseurl }}{{ page.previous.url }}" rel="prev"><span class="nextArrow"></span></a>
+  {% endif %}
   {% if page.next.url %}
-  <a href="{{ page.next.url }}" rel="next"><span class="prevArrow"></span></a>		
+  <a href="{{ site.baseurl }}{{ page.next.url }}" rel="next"><span class="prevArrow"></span></a>
   {% endif %}
   <a href="{{ site.url }}"><div class="overview"></div></a>
 
@@ -11,11 +11,4 @@
     <h1>&nbsp;</h1>
     <div class="divideCounter"></div>
     14	</div>
-</div> 
-
-    {% if page.previous %} 
-        <a rel="prev" href="{{ page.previous.url }}">&larr; Older</a>
-    {% endif %}
-    {% if page.next %} 
-        <a rel="next" href="{{ page.next.url }}">Newer &rarr;</a>
-    {% endif %}
+</div>
