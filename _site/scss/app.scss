@@ -5,6 +5,9 @@ body {
   padding-top: 80px;
 }
 .alt-font {
+  font-family: $font-family-serif;
+}
+.head-font {
   font-family: $font-family-sans-serif;
 }
 .transition {
@@ -84,7 +87,6 @@ ul.off-canvas-list {
 }
 .menu-item h5 {
   color: $white;
-  font-family: $font-family-sans-serif;
   font-size: $h6-font-size!important;
   font-weight: 400;
   letter-spacing: 0.5em;
@@ -92,7 +94,6 @@ ul.off-canvas-list {
 }
 .imprint h5 {
   color: $white;
-  font-family: $font-family-sans-serif;
   font-size: $h6-font-size!important;
   font-weight: 400;
   letter-spacing: 0.5em;
@@ -114,13 +115,12 @@ ul.off-canvas-list {
 .main-section { margin-bottom: 4.5em; }
 /* Footer Section */
 .footer-section { margin-top: 6.25em; margin-bottom: 15em; }
-/* Projects */
+/* Project Archive */
 .item-wrapper {
   margin: 1em 0;
   h4 {
     margin-item-info: 0;
     margin-bottom: 0;
-    @extend .alt-font;
     font-size: inherit;
     font-weight: 500;
   }
@@ -166,4 +166,79 @@ ul.off-canvas-list {
       -webkit-filter: grayscale(100%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */
     }
   }
+}
+/* Project Page */
+.project-title {
+  line-height: 1;
+  font-weight: 500;
+  font-size: $h3-font-size;
+}
+
+/* Nav nex and prev */
+
+.contNextPrevNav
+{
+	position: fixed;
+	left: 0;
+	margin-top: 144px;
+}
+
+.nextArrow
+{
+	display: block; 
+	width: 100px;
+	height: 44px;
+	background: url(../a/i/icons_nextprevback.png) no-repeat -100px 0;
+	background-size: 300px 44px;
+}
+
+.prevArrow
+{
+	display: block;
+	width: 100px;
+	height: 44px;
+	background: url(../a/i/icons_nextprevback.png) no-repeat 0 0;
+	background-size: 300px 44px;
+	margin: 6px 0px;
+}
+
+.counter
+{
+	width: 100px;
+	/* border: 1px solid rgba(48, 48, 47, 1); */
+	text-align: center;
+	margin: 76px auto 65px auto;
+}
+
+.counter h1
+{
+	font-size: 1em;
+	padding: 0;
+	margin-top: 16px;
+}
+
+.divideCounter
+{
+	width: 26px;
+	border-bottom: 1px solid rgba(48, 48, 47, 1);
+	margin: 15px auto;
+}
+
+.partial
+{
+	position: fixed;
+	z-index: 999;
+	top: 364px;
+	left: 0px;
+	width: 100px;
+	text-align: center;
+}
+
+.overview
+{
+	display: block;
+	width: 100px;
+	height: 44px;
+	background: url(../a/i/icons_nextprevback.png) no-repeat -200px 0;
+	background-size: 300px 44px;
 }
