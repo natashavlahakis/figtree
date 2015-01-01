@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 categories: projects
 default-image: /a/i/img-2.jpg
 medium-image: /a/i/img-2-medium.jpg
