@@ -5,37 +5,29 @@ title: Boosy's Surf School
 default-image: /a/i/img-2.jpg
 medium-image: /a/i/img-2-medium.jpg
 ---
-<div class="small-8 small-centered columns">
+<h1 class="project-title text-center">{{ page.title }}</h1>
 
-  <h1 class="project-title text-center">{{ page.title }}</h1>
+  <div class="small-12 medium-6 columns">
 
-  <div class="row">
-
-    <div class="small-12 medium-6 columns">
-    
-      <p class="lead">Eiusmod ipsum voluptate, non cillum pariatur, admodum nam nostrud de de occaecat non admodum.</p>
-      
-    </div>
-
-    <div class="small-12 medium-6 columns">
-      
-      <p>Summis quibusdam ut voluptatibus. Se excepteur sed quibusdam iis eram ab 
-      aliquip. Possumus dolor summis consequat esse nam non o varias consequat ex anim 
-      quibusdam tempor o se aut culpa probant, cernantur an doctrina, o varias sunt 
-      dolore quamquam de culpa e in legam vidisse, ita sunt nisi ab arbitror. Nam qui 
-      aliqua aute illum. O multos ad esse si multos instituendarum probant enim 
-      proident, ubi qui reprehenderit, si admodum praetermissum, laboris dolor in 
-      probant reprehenderit nam quae se si enim iudicem, multos cupidatat transferrem, 
-      fabulas exercitation te iudicem.</p>
-      <p class="head-font">Website / Graphic Design / Logo</p>
-      <p class="head-font"><a href="#">www.example.com</a></p>
-      
-    </div>
+    <p class="lead">Eiusmod ipsum voluptate, non cillum pariatur, admodum nam nostrud de de occaecat non admodum.</p>
 
   </div>
 
-  <p><img data-interchange="{{ site.url }}/a/i/tdc-1-450.jpg, (default)], [{{ site.url }}/a/i/tdc-1-970.jpg, (medium)]"></p>
-  <p><img data-interchange="[{{ site.url }}/a/i/tdc-2-450.jpg, (default)], [{{ site.url }}/a/i/tdc-2-970.jpg, (medium)]"></p>
-  <p><img data-interchange="[{{ site.url }}/a/i/tdc-3-450.jpg, (default)], [{{ site.url }}/a/i/tdc-3-970.jpg, (medium)]"></p>
+  <div class="small-12 medium-6 columns">
 
-</div>
+    <p>Summis quibusdam ut voluptatibus. Se excepteur sed quibusdam iis eram ab 
+    aliquip. Possumus dolor summis consequat esse nam non o varias consequat ex anim 
+    quibusdam tempor o se aut culpa probant, cernantur an doctrina, o varias sunt 
+    dolore quamquam de culpa e in legam vidisse, ita sunt nisi ab arbitror. Nam qui 
+    aliqua aute illum. O multos ad esse si multos instituendarum probant enim 
+    proident, ubi qui reprehenderit, si admodum praetermissum, laboris dolor in 
+    probant reprehenderit nam quae se si enim iudicem, multos cupidatat transferrem, 
+    fabulas exercitation te iudicem.</p>
+    <p class="head-font">Website / Graphic Design / Logo</p>
+    <p class="head-font"><a href="#">www.example.com</a></p>
+
+  </div>
+
+<p><img data-interchange="{{ site.url }}/a/i/tdc-1-450.jpg, (default)], [{{ site.url }}/a/i/tdc-1-970.jpg, (medium)]"></p>
+<p><img data-interchange="[{{ site.url }}/a/i/tdc-2-450.jpg, (default)], [{{ site.url }}/a/i/tdc-2-970.jpg, (medium)]"></p>
+<p><img data-interchange="[{{ site.url }}/a/i/tdc-3-450.jpg, (default)], [{{ site.url }}/a/i/tdc-3-970.jpg, (medium)]"></p>
