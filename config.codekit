@@ -149,132 +149,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/a\/c\/ie.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/a\/c\/ie.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/a\/c\/print.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/a\/c\/print.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/a\/c\/screen.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/a\/c\/screen.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/a\/i\/icons_nextprevback.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 460,
-		"inputAbbreviatedPath": "\/_site\/a\/i\/icons_nextprevback.png",
-		"outputAbbreviatedPath": "\/_site\/a\/i\/icons_nextprevback.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/a\/i\/img-1-medium.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 255540,
-		"inputAbbreviatedPath": "\/_site\/a\/i\/img-1-medium.jpg",
-		"outputAbbreviatedPath": "\/_site\/a\/i\/img-1-medium.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/a\/i\/img-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 142469,
-		"inputAbbreviatedPath": "\/_site\/a\/i\/img-1.jpg",
-		"outputAbbreviatedPath": "\/_site\/a\/i\/img-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/a\/i\/img-2-medium.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 326760,
-		"inputAbbreviatedPath": "\/_site\/a\/i\/img-2-medium.jpg",
-		"outputAbbreviatedPath": "\/_site\/a\/i\/img-2-medium.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/a\/i\/img-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 160231,
-		"inputAbbreviatedPath": "\/_site\/a\/i\/img-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/a\/i\/img-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/a\/i\/tdc-1-medium.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 150684,
-		"inputAbbreviatedPath": "\/_site\/a\/i\/tdc-1-medium.jpg",
-		"outputAbbreviatedPath": "\/_site\/a\/i\/tdc-1-medium.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/a\/i\/tdc-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117346,
-		"inputAbbreviatedPath": "\/_site\/a\/i\/tdc-1.jpg",
-		"outputAbbreviatedPath": "\/_site\/a\/i\/tdc-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/a\/j\/app.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/a\/j\/app.js",
-		"outputAbbreviatedPath": "\/_site\/a\/j\/min\/app-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/a\/j\/min\/app-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/a\/j\/min\/app-min.js",
-		"outputAbbreviatedPath": "\/_site\/a\/j\/min\/min\/app-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3286,6 +3160,22 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/scss\/app.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/scss\/app.scss",
+		"outputAbbreviatedPath": "\/a\/c\/app.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/_site\/scss\/ie.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -3425,6 +3315,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/a\/i\/tdc-1-970.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 237749,
+		"inputAbbreviatedPath": "\/a\/i\/tdc-1-970.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/tdc-1-970.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/a\/i\/tdc-1-medium.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3443,6 +3344,17 @@
 		"initialSize": 117346,
 		"inputAbbreviatedPath": "\/a\/i\/tdc-1.jpg",
 		"outputAbbreviatedPath": "\/a\/i\/tdc-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/a\/i\/tdc-2-970.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 630205,
+		"inputAbbreviatedPath": "\/a\/i\/tdc-2-970.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/tdc-2-970.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3469,11 +3381,11 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/about.html": {
+	"\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/about.html",
+		"inputAbbreviatedPath": "\/about\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -7072,11 +6984,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/projects.html": {
+	"\/projects\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/projects.html",
+		"inputAbbreviatedPath": "\/projects\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
