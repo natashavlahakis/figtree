@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: projects
-default-image: /a/i/img-2.jpg
-medium-image: /a/i/img-2-medium.jpg
+default-image: /a/i/cap-1-450.jpg
+medium-image: /a/i/cap-1-970.jpg
 ---
 <h1 class="project-title text-center">{{ page.title }}</h1>
 
@@ -27,6 +27,6 @@ medium-image: /a/i/img-2-medium.jpg
 
   </div>
 
-<p><img data-interchange="{{ site.url }}/a/i/tdc-1-450.jpg, (default)], [{{ site.url }}/a/i/tdc-1-970.jpg, (medium)]"></p>
-<p><img data-interchange="[{{ site.url }}/a/i/tdc-2-450.jpg, (default)], [{{ site.url }}/a/i/tdc-2-970.jpg, (medium)]"></p>
-<p><img data-interchange="[{{ site.url }}/a/i/tdc-3-450.jpg, (default)], [{{ site.url }}/a/i/tdc-3-970.jpg, (medium)]"></p>
+<p><img data-interchange="{{ site.url }}/a/i/cap-1-450.jpg, (default)], [{{ site.url }}/a/i/cap-1-970.jpg, (medium)]"></p>
+<p><img data-interchange="[{{ site.url }}/a/i/cap-2-450.jpg, (default)], [{{ site.url }}/a/i/cap-2-970.jpg, (medium)]"></p>
+<p><img data-interchange="[{{ site.url }}/a/i/cap-3-450.jpg, (default)], [{{ site.url }}/a/i/cap-3-970.jpg, (medium)]"></p>
