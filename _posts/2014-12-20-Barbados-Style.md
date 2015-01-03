@@ -8,22 +8,15 @@ medium-image: /a/i/img-1-medium.jpg
 
   <div class="small-12 medium-6 columns">
 
-    <p class="lead">Eiusmod ipsum voluptate, non cillum pariatur, admodum nam nostrud de de occaecat non admodum.</p>
+    <p class="lead">Barbados Style is a high quality video production that tells the story of how Barbados has evolved from an English colony into the destination of choice for celebrities and multi-millionaires.</p>
 
   </div>
 
   <div class="small-12 medium-6 columns">
 
-    <p>Summis quibusdam ut voluptatibus. Se excepteur sed quibusdam iis eram ab 
-    aliquip. Possumus dolor summis consequat esse nam non o varias consequat ex anim 
-    quibusdam tempor o se aut culpa probant, cernantur an doctrina, o varias sunt 
-    dolore quamquam de culpa e in legam vidisse, ita sunt nisi ab arbitror. Nam qui 
-    aliqua aute illum. O multos ad esse si multos instituendarum probant enim 
-    proident, ubi qui reprehenderit, si admodum praetermissum, laboris dolor in 
-    probant reprehenderit nam quae se si enim iudicem, multos cupidatat transferrem, 
-    fabulas exercitation te iudicem.</p>
-    <p class="head-font">Website / Graphic Design / Logo</p>
-    <p class="head-font"><a href="#">www.example.com</a></p>
+    <p>Our goal was merely to create a website that showcases this production.</p>
+    <p class="head-font">Website / Graphic Design</p>
+    <p class="head-font"><a href="www.barbadosstyle.com">www.barbadosstyle.com</a></p>
 
   </div>
 

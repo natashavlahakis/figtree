@@ -9,7 +9,7 @@ medium-image: /a/i/img-2-medium.jpg
 
   <div class="small-12 medium-6 columns">
 
-    <p class="lead">Eiusmod ipsum voluptate, non cillum pariatur, admodum nam nostrud de de occaecat non admodum.</p>
+    <p class="lead">Boosy's Surf School is a mobile surf school in Barbados. We worked with Boosy’s Surf School to build a website that had great visual impact through the use of photography that highlighted the experience of learning to surf with Christian.</p>
 
   </div>
 
@@ -23,8 +23,8 @@ medium-image: /a/i/img-2-medium.jpg
     proident, ubi qui reprehenderit, si admodum praetermissum, laboris dolor in 
     probant reprehenderit nam quae se si enim iudicem, multos cupidatat transferrem, 
     fabulas exercitation te iudicem.</p>
-    <p class="head-font">Website / Graphic Design / Logo</p>
-    <p class="head-font"><a href="#">www.example.com</a></p>
+    <p class="head-font">Website / Graphic Design</p>
+    <p class="head-font"><a href="www.boosyssurfschool.com">www.boosyssurfschool.com</a></p>
 
   </div>
 

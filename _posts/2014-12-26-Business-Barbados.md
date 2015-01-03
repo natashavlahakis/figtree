@@ -8,22 +8,15 @@ medium-image: /a/i/img-1-medium.jpg
 
   <div class="small-12 medium-6 columns">
 
-    <p class="lead">Eiusmod ipsum voluptate, non cillum pariatur, admodum nam nostrud de de occaecat non admodum.</p>
+    <p class="lead">Business Barbados is a online and offline publication promoting Barbados as the jurisdiction of choice for international business.</p>
 
   </div>
 
   <div class="small-12 medium-6 columns">
 
-    <p>Summis quibusdam ut voluptatibus. Se excepteur sed quibusdam iis eram ab 
-    aliquip. Possumus dolor summis consequat esse nam non o varias consequat ex anim 
-    quibusdam tempor o se aut culpa probant, cernantur an doctrina, o varias sunt 
-    dolore quamquam de culpa e in legam vidisse, ita sunt nisi ab arbitror. Nam qui 
-    aliqua aute illum. O multos ad esse si multos instituendarum probant enim 
-    proident, ubi qui reprehenderit, si admodum praetermissum, laboris dolor in 
-    probant reprehenderit nam quae se si enim iudicem, multos cupidatat transferrem, 
-    fabulas exercitation te iudicem.</p>
-    <p class="head-font">Website / Graphic Design / Logo</p>
-    <p class="head-font"><a href="#">www.example.com</a></p>
+    <p>We worked with Business Barbados to create a website that represents why this jurisdiction is #1 place to work live and play.</p>
+    <p class="head-font">Website / Graphic Design</p>
+    <p class="head-font"><a href="http://www.businessbarbados.com">www.businessbarbados.com</a></p>
 
   </div>
 
