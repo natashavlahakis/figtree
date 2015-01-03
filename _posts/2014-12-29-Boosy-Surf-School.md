@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: projects
+title: Boosy's Surf School
 default-image: /a/i/img-2.jpg
 medium-image: /a/i/img-2-medium.jpg
 ---

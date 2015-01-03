@@ -297,6 +297,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/a\/i\/tdc-3-450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215052,
+		"inputAbbreviatedPath": "\/_site\/a\/i\/tdc-3-450.jpg",
+		"outputAbbreviatedPath": "\/_site\/a\/i\/tdc-3-450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/a\/i\/tdc-3-970.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 603623,
+		"inputAbbreviatedPath": "\/_site\/a\/i\/tdc-3-970.jpg",
+		"outputAbbreviatedPath": "\/_site\/a\/i\/tdc-3-970.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/a\/j\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -3531,6 +3553,28 @@
 		"initialSize": 630205,
 		"inputAbbreviatedPath": "\/a\/i\/tdc-2-970.jpg",
 		"outputAbbreviatedPath": "\/a\/i\/tdc-2-970.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/a\/i\/tdc-3-450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215052,
+		"inputAbbreviatedPath": "\/a\/i\/tdc-3-450.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/tdc-3-450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/a\/i\/tdc-3-970.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 603623,
+		"inputAbbreviatedPath": "\/a\/i\/tdc-3-970.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/tdc-3-970.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
