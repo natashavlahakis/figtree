@@ -22,7 +22,7 @@ medium-image: /a/i/cap-1-970.jpg
     proident, ubi qui reprehenderit, si admodum praetermissum, laboris dolor in 
     probant reprehenderit nam quae se si enim iudicem, multos cupidatat transferrem, 
     fabulas exercitation te iudicem.</p>
-    <p class="head-font">Website / Graphic Design / Logo</p>
+    <p class="head-font">Logo / Graphic Design</p>
     <p class="head-font"><a href="#">www.example.com</a></p>
 
   </div>
