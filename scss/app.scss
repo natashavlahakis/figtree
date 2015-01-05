@@ -2,9 +2,9 @@
 @import "../bower_components/foundation/scss/foundation";
 
 body {
-  padding-top: 80px!important;
-  @media #{$large-up} { 
-    padding-top: 160px!important;
+  padding-top: 4.25em!important;
+  @media #{$medium-up} { 
+    padding-top: 8.25em!important;
   }
 }
 .alt-font {
@@ -94,13 +94,6 @@ ul.off-canvas-list {
   letter-spacing: 0.5em;
   text-transform: uppercase;
 }
-.imprint h5 {
-  color: $white;
-  font-size: $h6-font-size!important;
-  font-weight: 400;
-  letter-spacing: 0.5em;
-  text-transform: uppercase;
-}
 .imprint {
   color: $white;
   padding: 0 10px;
@@ -108,15 +101,32 @@ ul.off-canvas-list {
   p {
     font-size: $h5-font-size;
   }
+  h5 {
+    color: $white;
+    font-size: $h6-font-size!important;
+    font-weight: 400;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+  }
   li {
     font-size: $h5-font-size;
   }
 }
 .menu-item { margin: 4.5em 0; text-align: center; }
 /* Main Section */
-.main-section { margin-bottom: 4.5em; }
+.main-section { 
+  @media #{$medium-up} { 
+    margin-bottom: 4.5em;
+  }
+}
 /* Footer Section */
-.footer-section { margin-top: 6.25em; margin-bottom: 15em; }
+.footer-section {
+  margin-bottom: 6.25em;
+  @media #{$medium-up} {
+    margin-top: 6.25em;
+    margin-bottom: 15em;
+  }
+}
 /* Project Archive */
 .item-wrapper {
   margin: 1em 0;
