@@ -1,33 +1,15 @@
-<div class="icon-bar vertical three-up">
-  <a class="item">
-    <i class="icon-next"></i>
-    <label>Next</label>
-  </a>
-  <a class="item">
-    <i class="icon-previous"></i>
-    <label>Previous</label>
-  </a>
-  <a class="item">
-    <i class="icon-portfolio"></i>
-    <label>Portfolio</label>
-  </a>
-</div>
-
-<div class="pagination">
-  {% if page.previous.url %}
-  <a href="{{ site.baseurl }}{{ page.previous.url }}" rel="prev"><span class="nextArrow"></span></a>
-  {% endif %}
+<div class="pagination icon-bar large-vertical three-up">
   {% if page.next.url %}
-  <a href="{{ site.baseurl }}{{ page.next.url }}" rel="next"><span class="prevArrow"></span></a>
+  <a href="{{ site.baseurl }}{{ page.next.url }}" aria-label="Next" class="item">
+    <i class="icon-previous"></i>
+  </a>
   {% endif %}
-  <a href="{{ site.url }}"><div class="overview"></div></a>
-
-  <div class="counter">
-    <h1>&nbsp;</h1>
-    <div class="divideCounter"></div>
-    {% for post in site.categories.projects %}
-    {% capture post_count %} {{ post_count | plus: 1 }} {% endcapture %}
-    {% endfor %}
-    {{ post_count }}
-  </div>
+  {% if page.previous.url %}
+  <a href="{{ site.baseurl }}{{ page.previous.url }}" aria-label="Previous" class="item">
+    <i class="icon-next"></i>
+  </a>
+  {% endif %}
+  <a href="{{ site.url }}" aria-label="Portfolio" class="item">
+    <i class="icon-portfolio"></i>
+  </a>
 </div>

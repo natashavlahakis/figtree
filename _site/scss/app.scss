@@ -2,7 +2,10 @@
 @import "../bower_components/foundation/scss/foundation";
 
 body {
-  padding-top: 160px!important;
+  padding-top: 80px!important;
+  @media #{$large-up} { 
+    padding-top: 160px!important;
+  }
 }
 .alt-font {
   font-family: $font-family-serif;
@@ -175,52 +178,9 @@ ul.off-canvas-list {
 }
 /* Nav nex and prev */
 .pagination {
-   position: fixed;
-   left: 0;
-   margin-top: 144px;
-    .nextArrow {
-     display: block;
-     width: 100px;
-     height: 44px;
-     background: url(../i/icons_nextprevback.png) no-repeat -100px 0;
-     background-size: 300px 44px;
-    }
-    .prevArrow {
-     display: block;
-     width: 100px;
-     height: 44px;
-     background: url(../i/icons_nextprevback.png) no-repeat 0 0;
-     background-size: 300px 44px;
-     margin: 6px 0;
-    }
-    .counter {
-     width: 100px;
-     text-align: center;
-     margin: 76px auto 65px auto;
-     h1 {
-      font-size: 1em;
-      padding: 0;
-      margin-top: 16px;
-     }
-    }
-    .divideCounter {
-     width: 26px;
-     border-bottom: 1px solid $black;
-     margin: 15px auto;
-    }
-    .partial {
-     position: fixed;
-     z-index: 999;
-     top: 364px;
-     left: 0;
-     width: 100px;
-     text-align: center;
-    }
-    .overview {
-     display: block;
-     width: 100px;
-     height: 44px;
-     background: url(../i/icons_nextprevback.png) no-repeat -200px 0;
-     background-size: 300px 44px;
-    }
+  position: fixed;
+  bottom: 0;
+  @media #{$large-up} { 
+    bottom: auto;
+  }
 }

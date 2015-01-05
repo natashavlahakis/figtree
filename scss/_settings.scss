@@ -683,11 +683,11 @@ $header-font-family: $font-family-sans-serif;
 
 // We use these to style the icon-bar and items
 // $include-html-icon-bar-classes: $include-html-classes;
-// $icon-bar-bg: $oil;
-// $icon-bar-font-color: $white;
+$icon-bar-bg: $white;
+$icon-bar-font-color: $black;
 // $icon-bar-font-size: 1rem;
 // $icon-bar-hover-color: $primary-color;
-// $icon-bar-icon-color: $white;
+$icon-bar-icon-color: $black;
 // $icon-bar-icon-size: 1.875rem;
 // $icon-bar-image-width: 1.875rem;
 // $icon-bar-image-height: 1.875rem;

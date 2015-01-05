@@ -149,6 +149,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/a\/c\/elusive-ie7.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/a\/c\/elusive-ie7.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/a\/c\/elusive.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/a\/c\/elusive.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/a\/c\/ie.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -175,6 +193,50 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/a\/i\/cap-1-450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139543,
+		"inputAbbreviatedPath": "\/_site\/a\/i\/cap-1-450.jpg",
+		"outputAbbreviatedPath": "\/_site\/a\/i\/cap-1-450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/a\/i\/cap-1-970.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 359548,
+		"inputAbbreviatedPath": "\/_site\/a\/i\/cap-1-970.jpg",
+		"outputAbbreviatedPath": "\/_site\/a\/i\/cap-1-970.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/a\/i\/cap-2-450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117825,
+		"inputAbbreviatedPath": "\/_site\/a\/i\/cap-2-450.jpg",
+		"outputAbbreviatedPath": "\/_site\/a\/i\/cap-2-450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/a\/i\/cap-2-970.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280555,
+		"inputAbbreviatedPath": "\/_site\/a\/i\/cap-2-970.jpg",
+		"outputAbbreviatedPath": "\/_site\/a\/i\/cap-2-970.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_site\/a\/i\/icons_nextprevback.png": {
 		"fileType": 32768,
@@ -3409,6 +3471,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/a\/c\/elusive-ie7.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/a\/c\/elusive-ie7.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/a\/c\/elusive.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/a\/c\/elusive.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/a\/c\/ie.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -3435,6 +3515,50 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/a\/i\/cap-1-450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139543,
+		"inputAbbreviatedPath": "\/a\/i\/cap-1-450.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/cap-1-450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/a\/i\/cap-1-970.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 359548,
+		"inputAbbreviatedPath": "\/a\/i\/cap-1-970.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/cap-1-970.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/a\/i\/cap-2-450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117825,
+		"inputAbbreviatedPath": "\/a\/i\/cap-2-450.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/cap-2-450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/a\/i\/cap-2-970.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280555,
+		"inputAbbreviatedPath": "\/a\/i\/cap-2-970.jpg",
+		"outputAbbreviatedPath": "\/a\/i\/cap-2-970.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/a\/i\/icons_nextprevback.png": {
 		"fileType": 32768,
