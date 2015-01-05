@@ -5,29 +5,26 @@ title: Boosy's Surf School
 default-image: /a/i/img-2.jpg
 medium-image: /a/i/img-2-medium.jpg
 ---
-<h1 class="project-title text-center">{{ page.title }}</h1>
+<div class="row">
+
+  <div class="small-12 columns">
+    <h1 class="project-title text-center">{{ page.title }}</h1>
+  </div>
 
   <div class="small-12 medium-6 columns">
-
     <p class="lead">Boosy's Surf School is a mobile surf school in Barbados. We worked with Boosy’s Surf School to build a website that had great visual impact through the use of photography that highlighted the experience of learning to surf with Christian.</p>
-
   </div>
 
   <div class="small-12 medium-6 columns">
-
-    <p>Summis quibusdam ut voluptatibus. Se excepteur sed quibusdam iis eram ab 
-    aliquip. Possumus dolor summis consequat esse nam non o varias consequat ex anim 
-    quibusdam tempor o se aut culpa probant, cernantur an doctrina, o varias sunt 
-    dolore quamquam de culpa e in legam vidisse, ita sunt nisi ab arbitror. Nam qui 
-    aliqua aute illum. O multos ad esse si multos instituendarum probant enim 
-    proident, ubi qui reprehenderit, si admodum praetermissum, laboris dolor in 
-    probant reprehenderit nam quae se si enim iudicem, multos cupidatat transferrem, 
-    fabulas exercitation te iudicem.</p>
+    <p>Our goal was merely to create a website that showcases this production.</p>
     <p class="head-font">Website / Graphic Design</p>
-    <p class="head-font"><a href="www.boosyssurfschool.com">www.boosyssurfschool.com</a></p>
-
+    <p class="head-font"><a href="www.barbadosstyle.com">www.barbadosstyle.com</a></p>
   </div>
 
-<p><img data-interchange="{{ site.url }}/a/i/tdc-1-450.jpg, (default)], [{{ site.url }}/a/i/tdc-1-970.jpg, (medium)]"></p>
-<p><img data-interchange="[{{ site.url }}/a/i/tdc-2-450.jpg, (default)], [{{ site.url }}/a/i/tdc-2-970.jpg, (medium)]"></p>
-<p><img data-interchange="[{{ site.url }}/a/i/tdc-3-450.jpg, (default)], [{{ site.url }}/a/i/tdc-3-970.jpg, (medium)]"></p>
+  <div class="small-12 columns">
+    <p><img data-interchange="{{ site.url }}/a/i/tdc-1-450.jpg, (default)], [{{ site.url }}/a/i/tdc-1-970.jpg, (medium)]"></p>
+    <p><img data-interchange="[{{ site.url }}/a/i/tdc-2-450.jpg, (default)], [{{ site.url }}/a/i/tdc-2-970.jpg, (medium)]"></p>
+    <p><img data-interchange="[{{ site.url }}/a/i/tdc-3-450.jpg, (default)], [{{ site.url }}/a/i/tdc-3-970.jpg, (medium)]"></p>
+  </div>
+
+</div>
