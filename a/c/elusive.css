@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'elusive';
-  src: url('../f/elusive.eot?22151233');
-  src: url('../f/elusive.eot?22151233#iefix') format('embedded-opentype'),
-       url('../f/elusive.woff?22151233') format('woff'),
-       url('../f/elusive.ttf?22151233') format('truetype'),
-       url('../f/elusive.svg?22151233#elusive') format('svg');
+  src: url('../f/elusive.eot?19659130');
+  src: url('../f/elusive.eot?19659130#iefix') format('embedded-opentype'),
+       url('../f/elusive.woff?19659130') format('woff'),
+       url('../f/elusive.ttf?19659130') format('truetype'),
+       url('../f/elusive.svg?19659130#elusive') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'elusive';
-    src: url('../font/elusive.svg?22151233#elusive') format('svg');
+    src: url('../font/elusive.svg?19659130#elusive') format('svg');
   }
 }
 */
@@ -51,6 +51,6 @@
 }
  
 .icon-exit:before { content: '\e800'; } /* '' */
-.icon-next:before { content: '\e802'; } /* '' */
-.icon-previous:before { content: '\e803'; } /* '' */
-.icon-portfolio:before { content: '\e805'; } /* '' */
+.icon-portfolio:before { content: '\e801'; } /* '' */
+.icon-next:before { content: '\e806'; } /* '' */
+.icon-previous:before { content: '\e807'; } /* '' */
