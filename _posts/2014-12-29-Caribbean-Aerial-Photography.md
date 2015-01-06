@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: projects
-default-image: /a/i/cap-1-450.jpg
-medium-image: /a/i/cap-1-970.jpg
+default-image: /a/i/cap-3-450.jpg
+medium-image: /a/i/cap-3-970.jpg
 ---
 <div class="row">
 
@@ -21,9 +21,9 @@ medium-image: /a/i/cap-1-970.jpg
   </div>
 
   <div class="small-12 columns">
-    <p><img data-interchange="{{ site.url }}/a/i/cap-1-450.jpg, (default)], [{{ site.url }}/a/i/cap-1-970.jpg, (medium)]"></p>
-    <p><img data-interchange="[{{ site.url }}/a/i/cap-2-450.jpg, (default)], [{{ site.url }}/a/i/cap-2-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/cap-3-450.jpg, (default)], [{{ site.url }}/a/i/cap-3-970.jpg, (medium)]"></p>
+    <p><img data-interchange="[{{ site.url }}/a/i/cap-2-450.jpg, (default)], [{{ site.url }}/a/i/cap-2-970.jpg, (medium)]"></p>
+    <p><img data-interchange="{{ site.url }}/a/i/cap-1-450.jpg, (default)], [{{ site.url }}/a/i/cap-1-970.jpg, (medium)]"></p>
   </div>
 
 </div>
