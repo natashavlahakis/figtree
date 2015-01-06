@@ -189,6 +189,7 @@ ul.off-canvas-list {
 /* Nav nex and prev */
 .pagination {
   position: fixed;
+  z-index: 1000;
   bottom: 0;
   @media #{$large-up} { 
     bottom: auto;
