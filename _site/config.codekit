@@ -149,15 +149,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/2014\/12\/29\/Caribbean-Aerial-Photography.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/2014\/12\/29\/Caribbean-Aerial-Photography.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/a\/c\/elusive-ie7.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -254,17 +245,6 @@
 		"initialSize": 28219,
 		"inputAbbreviatedPath": "\/_site\/a\/i\/cap-3-450.jpg",
 		"outputAbbreviatedPath": "\/_site\/a\/i\/cap-3-450.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/a\/i\/cap-3-970.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 50179,
-		"inputAbbreviatedPath": "\/_site\/a\/i\/cap-3-970.jpg",
-		"outputAbbreviatedPath": "\/_site\/a\/i\/cap-3-970.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

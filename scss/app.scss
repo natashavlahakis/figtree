@@ -64,6 +64,15 @@ body {
   a {
     color: $black;
   }
+  li {
+    &.active:not(.has-form) {
+      a:not(.button) {
+        text-decoration-line: line-through;
+        text-decoration-color: $primary-color;
+        &:hover { text-decoration: none; }
+      }
+    }
+  }
 }
 .off-canvas-list {
   margin-top: 2.5em!important;
