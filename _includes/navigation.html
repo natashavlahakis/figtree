@@ -23,6 +23,10 @@
             <!-- Left Nav Section -->
             {% assign pages = site.pages | sort:"weight"  %}
             <ul class="right">
+              <li>
+                <a href="{{ site.url }}">Projects</a>
+                <span></span>
+              </li>
               {% for p in pages %}
               {% if p.menu == 'main' %}
               <li {% if p.url == page.url %}class="active"{% endif %}>
