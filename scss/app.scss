@@ -36,22 +36,35 @@ body {
 .top-bar-section {
   li {
     margin-left: 2em;
-    span {
-      position: absolute;
-      display: none;
-      width: 100%;
-      border-top: 2px solid $primary-color;
-      &:hover, &:active {
-        display: block;
+    &:not(.has-form) {
+      &:hover .line {
+        background: $primary-color; 
+        height: 3px; 
+        width: 100%;
+        margin-top:-28%;
+        -webkit-transition: background 400ms ease-in-out;
+        transition: background 400ms ease-in-out;
       }
-    }
+      //a:not(.button):active {}
+      //a:not(.button):hover {}
+      }
     &.active:not(.has-form) {
-      a:not(.button) {
-        border-bottom: 2px solid red;
-        &:hover { }
+      .line {
+        background-color: $primary-color; 
+        height: 3px; 
+        width: 100%;
+        margin-top:-40%;
       }
+      //a:not(.button) {
+        //background: green!important;
+        //&:hover { }
+      //}
     }
   }
+  ul li {
+    //&.line {border: 2px solid yellow}
+  }
+  
   ul li > a {
     font-size: $h6-font-size;
     letter-spacing: 0.2em;
