@@ -12,7 +12,7 @@
           <div style="max-width: 970px; margin: 0 auto">
             <ul class="title-area">
               <li class="name">
-                <h1 class="alt-font"><a href="{{ site.url }}">&#64257;gtree</a></h1>
+                <h1 class="alt-font"><a class="animsition-link" href="{{ site.url }}">&#64257;gtree</a></h1>
               </li>
               <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
               <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -24,13 +24,13 @@
             {% assign pages = site.pages | sort:"weight"  %}
             <ul class="right">
               <li {% if p.url == page.url %}class="active"{% endif %}>
-                <a href="{{ site.url }}">Projects</a>
+                <a class="animsition-link" href="{{ site.url }}">Projects</a>
                 <div class="line"></div>
               </li>
               {% for p in pages %}
               {% if p.menu == 'main' %}
               <li {% if p.url == page.url %}class="active"{% endif %}>
-                <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
+                <a class="animsition-link" href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
                 <div class="line"></div>
               </li>
               {% endif %}
@@ -64,7 +64,7 @@
         </section>
 
         <section class="left tab-bar-section">
-          <h1 class="alt-font"><a href="{{ site.url }}">&#64257;gtree</a></h1>
+          <h1 class="alt-font"><a class="animsition-link" href="{{ site.url }}">&#64257;gtree</a></h1>
         </section>
 
       </nav> <!-- END NAV.TAB-BAR HIDE-FOR-LARGE-UP -->
@@ -75,13 +75,13 @@
       <ul class="off-canvas-list">
         <li><label>Projects</label></li>
         {% for post in site.posts %}
-        <li><a class="item-link" href='{{ site.url }}{{post.url}}'>{{ post.title }}</a></li>
+        <li><a class="item-link animsition-link" href='{{ site.url }}{{post.url}}'>{{ post.title }}</a></li>
         {% endfor %}
       </ul>
 
       <div class="menu-item">
-        <h5><a href="/about/">About</a></h5>
-        <h5><a href="/blog/">Blog</a></h5>
+        <h5><a class="animsition-link" href="/about/">About</a></h5>
+        <h5><a class="animsition-link" href="/blog/">Blog</a></h5>
       </div>
 
       <div class="imprint">
