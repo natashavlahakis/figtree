@@ -2,13 +2,19 @@
 <html class="no-js" lang="en">
   {% include head.html %}
   <body>
-    {% include navigation.html %}
+    
+    <div class="animsition">
+     
+      {% include navigation.html %}
 
-    <!-- MAIN SECTION -->
-    <section class="main-section animsition">
-      {{ content }}
-    </section> <!-- END SECTION.MAIN-SECTION -->
+      <!-- MAIN SECTION -->
+      <section class="main-section">
+        {{ content }}
+      </section> <!-- END SECTION.MAIN-SECTION -->
 
-    {% include footer.html %}
+      {% include footer.html %}
+    
+    </div>
+  
   </body>
 </html>
