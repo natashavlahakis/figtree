@@ -412,12 +412,34 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/a\/j\/app-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/a\/j\/app-min.js",
+		"outputAbbreviatedPath": "\/_site\/a\/j\/min\/app-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/a\/j\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/a\/j\/app.js",
 		"outputAbbreviatedPath": "\/_site\/a\/j\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/a\/j\/min\/app-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/a\/j\/min\/app-min.js",
+		"outputAbbreviatedPath": "\/_site\/a\/j\/min\/min\/app-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4444,25 +4466,25 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/a\/j\/app.js": {
+	"\/a\/j\/app-min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/a\/j\/app.js",
-		"outputAbbreviatedPath": "\/a\/j\/min\/app-min.js",
+		"inputAbbreviatedPath": "\/a\/j\/app-min.js",
+		"outputAbbreviatedPath": "\/a\/j\/min\/app-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/a\/j\/min\/app-min.js": {
+	"\/a\/j\/app.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/a\/j\/min\/app-min.js",
-		"outputAbbreviatedPath": "\/a\/j\/min\/min\/app-min-min.js",
+		"inputAbbreviatedPath": "\/a\/j\/app.js",
+		"outputAbbreviatedPath": "\/a\/j\/app.min.js",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
