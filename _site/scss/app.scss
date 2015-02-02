@@ -1,3 +1,16 @@
+/* Importing Fonts */
+
+/* @import must be at top of file, otherwise CSS will not work */
+//@import url("//hello.myfonts.net/count/289f90");
+
+@font-face {font-family: 'NewBaskervilleStd-Bold';src: url('../f/289F90_0_0.eot');src: url('../f/289F90_0_0.eot?#iefix') format('embedded-opentype'),url('../f/289F90_0_0.woff') format('woff'),url('../f/289F90_0_0.ttf') format('truetype'); font-weight: normal; }
+ 
+  
+@font-face {font-family: 'NewBaskervilleStd-Italic';src: url('../f/289F90_1_0.eot');src: url('../f/289F90_1_0.eot?#iefix') format('embedded-opentype'),url('../f/289F90_1_0.woff') format('woff'),url('../f/289F90_1_0.ttf') format('truetype'); font-weight: normal; }
+ 
+  
+@font-face {font-family: 'NewBaskervilleStd-Roman';src: url('../f/289F90_2_0.eot');src: url('../f/289F90_2_0.eot?#iefix') format('embedded-opentype'),url('../f/289F90_2_0.woff') format('woff'),url('../f/289F90_2_0.ttf') format('truetype'); font-weight: normal; }
+
 @import "settings";
 @import "../bower_components/foundation/scss/foundation";
 
