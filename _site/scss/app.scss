@@ -1,19 +1,21 @@
 @import "settings";
 @import "../bower_components/foundation/scss/foundation";
 
-.main-section {
-  padding-top: 4.25em!important;
-  @media #{$medium-up} { 
-    padding-top: 8.25em!important;
-  }
+b {
+  font-family: 'NewBaskervilleStd-Bold';
+  font-weight: normal;
+}
+i {
+  font-family: 'NewBaskervilleStd-Italic'; 
+  font-style: normal;
 }
 .alt-font {
   font-family: $font-family-serif;
 }
 .logo-font {
   font-family: "minion-pro",serif;
-font-style: normal;
-font-weight: 700;
+  font-style: normal;
+  font-weight: 700;
 }
 .head-font {
   font-family: $font-family-sans-serif;
@@ -35,6 +37,12 @@ font-weight: 700;
   -moz-opacity: 1 !important;
   -khtml-opacity: 1 !important;
   opacity: 1 !important;
+}
+.main-section {
+  padding-top: 4.25em!important;
+  @media #{$medium-up} { 
+    padding-top: 8.25em!important;
+  }
 }
 /* Top Bar */
 //.top-bar { border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
@@ -139,19 +147,19 @@ ul.off-canvas-list {
     margin-top: 6.25em;
     margin-bottom: 15em;
   }
-  .contact-info {
-    font-family: $font-family-serif;
-    font-size: 0.84;
-    line-height: 1.34em;
-  }
-  p {
-    font-size: 0.84em;
-    line-height: 1.34em;
-    margin-bottom: 0;
-  }
-  li {
-    //margin-bottom: 0;
-  }
+.contact-info {
+  font-family: $font-family-serif;
+  font-size: 0.84;
+  line-height: 1.34em;
+}
+p {
+  font-size: 0.84em;
+  line-height: 1.34em;
+  margin-bottom: 0;
+}
+li {
+  //margin-bottom: 0;
+}
 }
 /* Project Archive */
 .item-wrapper {
