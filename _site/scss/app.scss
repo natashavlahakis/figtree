@@ -10,6 +10,11 @@
 .alt-font {
   font-family: $font-family-serif;
 }
+.logo-font {
+  font-family: "minion-pro",serif;
+font-style: normal;
+font-weight: 700;
+}
 .head-font {
   font-family: $font-family-sans-serif;
 }
@@ -134,6 +139,19 @@ ul.off-canvas-list {
     margin-top: 6.25em;
     margin-bottom: 15em;
   }
+  .contact-info {
+    font-family: $font-family-serif;
+    font-size: 0.84;
+    line-height: 1.34em;
+  }
+  p {
+    font-size: 0.84em;
+    line-height: 1.34em;
+    margin-bottom: 0;
+  }
+  li {
+    //margin-bottom: 0;
+  }
 }
 /* Project Archive */
 .item-wrapper {
@@ -150,6 +168,7 @@ ul.off-canvas-list {
       font-size: 15px;
       font-weight: 500;
       line-height: 18px;
+      margin-top: 0.55em;
       @extend .transition;
     }
     .item-image {
