@@ -69,7 +69,7 @@ i {
 }
 /* Off-Canvas */
 .tab-bar {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.9);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   .left-small {
     border-right: none;
   }
@@ -133,7 +133,7 @@ ul.off-canvas-list {
     font-size: $h5-font-size;
   }
 }
-.menu-item { margin: 4.5em 0; text-align: center; }
+.menu-item { margin: 2.5em 0; text-align: center; }
 /* Main Section */
 .main-section { 
   @media #{$medium-up} { 
