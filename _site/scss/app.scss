@@ -69,7 +69,7 @@ i {
 }
 /* Off-Canvas */
 .tab-bar {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   .left-small {
     border-right: none;
   }
@@ -223,6 +223,7 @@ p.lead {
 }
 /* Nav nex and prev */
 .pagination {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
   position: fixed;
   z-index: 1000;
   bottom: 0;
