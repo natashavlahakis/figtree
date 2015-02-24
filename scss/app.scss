@@ -2,11 +2,11 @@
 @import "../bower_components/foundation/scss/foundation";
 
 b {
-  font-family: 'NewBaskervilleW01-Bold';
+  font-family: 'NewBaskervilleW01-Bold',serif;
   font-weight: normal;
 }
 i {
-  font-family:'NewBaskervilleW01-Italic'; 
+  font-family:'NewBaskervilleW01-Italic',serif; 
   font-style: normal;
 }
 .alt-font {
@@ -70,6 +70,7 @@ i {
 /* Off-Canvas */
 .tab-bar {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 30px 0;
   .left-small {
     border-right: none;
   }
