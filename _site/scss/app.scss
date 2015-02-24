@@ -223,11 +223,17 @@ p.lead {
 }
 /* Nav nex and prev */
 .pagination {
+  a:hover{
+    i{
+      color: $primary-color;
+    }
+  }
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   position: fixed;
   z-index: 1000;
   bottom: 0;
-  @media #{$large-up} { 
+  @media #{$large-up} {
+    border-top: 0px;
     bottom: auto;
   }
 }
