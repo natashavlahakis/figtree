@@ -12,7 +12,7 @@ title: figtree digital agency
       <a class="item-link" href='{{ site.url }}{{post.url}}'>
         <div class="item-image">
           <img data-interchange="[{{ site.url }}{{post.default-image}}, (default)], [{{ site.url }}{{post.medium-image}}, (medium)]">
-          <noscript><img src="{{ site.url }}{{post.default-image}}" /></noscript>
+          <noscript><img src="{{ site.url }}{{post.default-image}}" alt="{{ post.title }}" /></noscript>
         </div>
         <div class="item-info">
           <h4>{{ post.title }}</h4>
