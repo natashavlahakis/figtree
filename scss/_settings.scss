@@ -93,7 +93,7 @@ $font-family-serif: "NewBaskervilleW01-Roman", serif;
 
 // We use these to define default font weights
 // $font-weight-normal: normal !default;
-// $font-weight-bold: bold !default;
+// $font-weight-bold: normal !default;
 
 $white       : #FFFFFF;
 // $ghost       : #FAFAFA;
@@ -112,7 +112,7 @@ $aluminum    : #999999;
 // $charcoal    : #555555;
 // $tuatara     : #444444;
 // $oil         : #333333;
-// $jet         : #222222;
+$jet         : #222222;
 $black       : #000000;
 
 // We use these as default colors throughout
@@ -255,8 +255,8 @@ $paragraph-line-height: 1;
 // We use these to style anchors
 // $anchor-text-decoration: none;
 // $anchor-text-decoration-hover: none;
- $anchor-font-color: $aluminum;
- $anchor-font-color-hover: scale-color($aluminum, $lightness: -14%);
+ $anchor-font-color: $jet;
+ $anchor-font-color-hover: scale-color($jet, $lightness: -14%);
 
 // We use these to style the <hr> element
 // $hr-border-width: 1px;

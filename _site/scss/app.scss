@@ -153,6 +153,9 @@ ul.off-canvas-list {
   font-size: 0.84;
   line-height: 1.34em;
 }
+a {
+  color: $aluminum;
+}
 p {
   font-size: 0.84em;
   line-height: 1.34em;
@@ -216,7 +219,7 @@ li {
 }
 p.lead {
   font-size: $h3-font-size;
-  //font-weight: normal;
+  font-weight: normal;
   line-height: 1;
 }
 .meta {
