@@ -240,26 +240,27 @@ p.lead {
 .pagination {
   a.item {
     &:hover{
-    i{
-      color: $primary-color;
+      i{
+        color: $primary-color;
+      }
     }
-  }
   }
   a.item.disabled {
     i {
       color: rgba(0, 0, 0, 0.1);
     }
     &:hover, &:focus {
-    i{
-      color: rgba(0, 0, 0, 0.1);
-      cursor: default;
+      i{
+        color: rgba(0, 0, 0, 0.1);
+        cursor: default;
+      }
     }
-  }
   }
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   position: fixed;
   z-index: 1000;
   bottom: 0;
+  //height:100%;
   @media #{$large-up} {
     border-top: 0px;
     bottom: auto;
