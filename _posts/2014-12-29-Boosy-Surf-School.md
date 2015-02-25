@@ -12,13 +12,13 @@ medium-image: /a/i/img-2-medium.jpg
   </div>
 
   <div class="small-12 medium-6 columns">
-    <p class="lead">Boosy's Surf School is a mobile surf school in Barbados. We worked with Boosy’s Surf School to build a website that had great visual impact through the use of photography that highlighted the experience of learning to surf with Christian.</p>
+  <p class="lead"><i>Boosy's Surf School</i> is a mobile surf school in Barbados. We worked with Boosy’s Surf School to build a website that had great visual impact through the use of photography that highlighted the experience of learning to surf with Christian.</p>
   </div>
 
   <div class="small-12 medium-6 columns">
     <p>Our goal was merely to create a website that showcases this production.</p>
     <p class="head-font">Website / Graphic Design</p>
-    <p class="head-font"><a href="www.barbadosstyle.com">www.barbadosstyle.com</a></p>
+    <p class="head-font"><a href="www.barbadosstyle.com">www.learntosurfbarbados.com</a></p>
   </div>
 
   <div class="small-12 columns">
