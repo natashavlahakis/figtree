@@ -44,6 +44,16 @@ i {
     padding-top: 8.25em!important;
   }
 }
+//* Animistion //
+.animsition-loading {
+  background: none!important;
+}
+.animsition-loading:after {
+  font-size: 44px!important;
+  color: $black!important;
+  content: "figtree"!important;
+  @extend .logo-font;
+}
 /* Top Bar */
 //.top-bar { border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
 .top-bar .name h1 {
