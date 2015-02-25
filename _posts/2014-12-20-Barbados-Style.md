@@ -17,7 +17,7 @@ medium-image: /a/i/img-1-medium.jpg
   <div class="small-12 medium-6 columns">
     <p>Our goal was merely to create a website that showcases this production.</p>
     <p class="head-font">Website / Graphic Design</p>
-    <p class="head-font"><a href="http://www.barbadosstyle.com">www.barbadosstyle.com</a></p>
+    <p class="head-font"><a href="http://www.barbadosstyle.com" target="_blank">www.barbadosstyle.com</a></p>
   </div>
 
   <div class="small-12 columns">

@@ -17,7 +17,7 @@ medium-image: /a/i/img-1-medium.jpg
   <div class="small-12 medium-6 columns">
     <p>Nisi et si tamen nostrud. Aut tempor ea proident, te quorum malis ea doctrina, nisi do nostrud, nulla deserunt a cohaerescant. Cernantur te irure commodo ita fabulas est irure consequat ne ad quo praesentibus, velit incididunt e legam quis.</p>
     <p class="head-font">Website / Graphic Design</p>
-    <p class="head-font"><a href="http://www.barbadosbooks.com">www.barbadosbooks.com</a></p>
+    <p class="head-font"><a href="http://www.barbadosbooks.com" target="_blank">www.barbadosbooks.com</a></p>
   </div>
 
   <div class="small-12 columns">

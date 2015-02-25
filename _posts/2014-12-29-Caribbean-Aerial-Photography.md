@@ -17,7 +17,7 @@ medium-image: /a/i/cap-3-970.jpg
   <div class="small-12 medium-6 columns">
     <p>We worked with Business Barbados to create a website that represents why this jurisdiction is #1 place to work live and play.</p>
     <p class="head-font">Website / Graphic Design</p>
-    <p class="head-font"><a href="http://www.businessbarbados.com">www.businessbarbados.com</a></p>
+    <p class="head-font"><a href="http://www.businessbarbados.com" target="_blank">www.businessbarbados.com</a></p>
   </div>
 
   <div class="small-12 columns">
