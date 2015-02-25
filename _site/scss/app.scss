@@ -53,6 +53,7 @@ i {
   color: $black!important;
   content: "figtree"!important;
   @extend .logo-font;
+  @extend .transition;
 }
 /* Top Bar */
 //.top-bar { border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
