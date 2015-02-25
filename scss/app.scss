@@ -175,7 +175,7 @@ li {
       color: $aluminum;
       @extend .alt-font;
       font-size: 15px;
-      font-weight: 500;
+      //font-weight: 500;
       line-height: 18px;
       margin-top: 0.55em;
       @extend .transition;
@@ -216,7 +216,7 @@ li {
 }
 p.lead {
   font-size: $h3-font-size;
-  font-weight: normal;
+  //font-weight: normal;
   line-height: 1;
 }
 .meta {
