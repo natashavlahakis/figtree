@@ -227,10 +227,22 @@ p.lead {
 }
 /* Nav nex and prev */
 .pagination {
-  a:hover{
+  a.item {
+    &:hover{
     i{
       color: $primary-color;
     }
+  }
+  }
+  a.item.disabled {
+    i {
+      color: rgba(0, 0, 0, 0.1);
+    }
+    &:hover, &:focus {
+    i{
+      color: rgba(0, 0, 0, 0.1);
+    }
+  }
   }
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   position: fixed;

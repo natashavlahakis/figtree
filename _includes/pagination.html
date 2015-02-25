@@ -3,6 +3,10 @@
   <a href="{{ site.baseurl }}{{ page.next.url }}" aria-label="Next" class="item">
     <i class="icon-previous"></i>
   </a>
+  {% else %}
+  <a class="item disabled">
+    <i class="icon-previous"></i>
+  </a>
   {% endif %}
   {% if page.previous.url %}
   <a href="{{ site.baseurl }}{{ page.previous.url }}" aria-label="Previous" class="item">
