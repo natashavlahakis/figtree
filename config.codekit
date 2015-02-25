@@ -4201,15 +4201,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/a\/c\/app.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/a\/c\/app.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/a\/c\/elusive-ie7.css": {
 		"fileType": 16,
 		"ignore": 0,
