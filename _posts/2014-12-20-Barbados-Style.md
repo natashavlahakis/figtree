@@ -11,7 +11,7 @@ medium-image: /a/i/img-1-medium.jpg
   </div>
 
   <div class="small-12 medium-6 columns">
-    <p class="lead">Barbados Style is a high quality video production that tells the story of how Barbados has evolved from an English colony into the destination of choice for celebrities and multi-millionaires.</p>
+    <p class="lead"><i>Barbados Style</i> is a high quality video production that tells the story of how <i>Barbados</i> has evolved from an English colony into the destination of choice for celebrities and multi-millionaires.</p>
   </div>
 
   <div class="small-12 medium-6 columns">

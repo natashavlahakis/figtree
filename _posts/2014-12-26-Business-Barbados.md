@@ -11,11 +11,11 @@ medium-image: /a/i/img-1-medium.jpg
   </div>
 
   <div class="small-12 medium-6 columns">
-    <p class="lead">Business Barbados is a online and offline publication promoting Barbados as the jurisdiction of choice for international business.</p>
+  <p class="lead"><i>Business Barbados</i> is a online and offline publication promoting Barbados as the jurisdiction of choice for international business.</p>
   </div>
 
   <div class="small-12 medium-6 columns">
-    <p>We worked with Business Barbados to create a website that represents why this jurisdiction is #1 place to work live and play.</p>
+  <p>We worked with Business Barbados to create a website that represents why this jurisdiction is <b>#1 place to work live and play</b>.</p>
     <p class="head-font">Website / Graphic Design</p>
     <p class="head-font"><a href="http://www.businessbarbados.com">www.businessbarbados.com</a></p>
   </div>
