@@ -51,7 +51,7 @@ i {
 .animsition-loading:after {
   font-size: 44px!important;
   color: $black!important;
-  content: "figtree"!important;
+  content: "ﬁgtree"!important;
   @extend .logo-font;
   @extend .transition;
 }
@@ -80,7 +80,7 @@ i {
 }
 /* Off-Canvas */
 .tab-bar {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  //border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   padding: 30px 0;
   .left-small {
     border-right: none;
@@ -252,6 +252,7 @@ p.lead {
     &:hover, &:focus {
     i{
       color: rgba(0, 0, 0, 0.1);
+      cursor: default;
     }
   }
   }
