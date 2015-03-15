@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: projects
-default-image: /a/i/img-1.jpg
-medium-image: /a/i/img-1-medium.jpg
+default-image: /a/i/bks-1-970.jpg
+medium-image: /a/i/bks-1-450.jpg
 ---
 <div class="row">
 
@@ -15,13 +15,13 @@ medium-image: /a/i/img-1-medium.jpg
   </div>
 
   <div class="small-12 medium-6 columns">
-    <p>We had the opportunity to develop their showcase website featuring the company’s many publications. The website design was done by <i>809 Design</i>. We built fully content-managed, bespoke website for <i>WordPress CMS</i>.</p>
+    <p>We had the opportunity to develop their showcase website featuring the company’s many publications. The website design was done by <i>809 Design</i>. We built a fully content-managed, bespoke website for <i>WordPress CMS</i>.</p>
     <p class="head-font">Website / Graphic Design</p>
     <p class="head-font"><a href="http://www.barbadosbooks.com" target="_blank">www.barbadosbooks.com</a></p>
   </div>
 
   <div class="small-12 columns">
-    <p><img data-interchange="[{{ site.url }}/a/i/tdc-1-450.jpg, (default)], [{{ site.url }}/a/i/tdc-1-970.jpg, (medium)]"></p>
+    <p><img data-interchange="[{{ site.url }}/a/i/bks-1-450.jpg, (default)], [{{ site.url }}/a/i/tdc-1-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/tdc-2-450.jpg, (default)], [{{ site.url }}/a/i/tdc-2-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/tdc-3-450.jpg, (default)], [{{ site.url }}/a/i/tdc-3-970.jpg, (medium)]"></p>
   </div>
