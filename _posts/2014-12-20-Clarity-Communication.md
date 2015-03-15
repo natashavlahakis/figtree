@@ -11,12 +11,13 @@ medium-image: /a/i/img-2-medium.jpg
   </div>
 
   <div class="small-12 medium-6 columns">
-  <p class="lead">Illum ad litteris id quem, consequat veniam noster et culpa. Proident malis mandaremus. Ad iis malis deserunt, nam aute firmissimum, ne minim dolore quem appellat, ex quorum illum magna possumus. Mandaremus illum pariatur. Nam magna consequat.</p>
+  <p class="lead"><i>Clarity Communication</i> is a corporate communications company based in Barbados.</p>
   </div>
 
   <div class="small-12 medium-6 columns">
-  <p>Singulis legam sunt consequat fugiat eu sunt incurreret eiusmod. Ubi lorem multos amet mandaremus. Singulis multos veniam occaecat esse a laborum nam legam incididunt.</p>
-    <p class="head-font">Website</p>
+  <p>With <b>clarity</b> being their main focus we created a no-frills website that focused on their core services and messaging. The responsive website also allows self-editing through a <i>Wordpress CMS</i>.
+</p>
+    <p class="head-font">Graphic Design / Website</p>
     <p class="head-font"><a href="http://www.claritybds.com" target="_blank">www.claritybds.com</a></p>
   </div>
 

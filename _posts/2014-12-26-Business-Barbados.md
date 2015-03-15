@@ -15,7 +15,7 @@ medium-image: /a/i/img-1-medium.jpg
   </div>
 
   <div class="small-12 medium-6 columns">
-  <p>We worked with Business Barbados to create a website that represents why this jurisdiction is <b>#1 place to work live and play</b>.</p>
+  <p>We worked with Business Barbados to create a website that represents why this jurisdiction is <b>#1 place to work live and play</b>. We designed and built fully content-managed, bespoke website for <i>WordPress CMS</i>.</p>
     <p class="head-font">Website / Graphic Design</p>
     <p class="head-font"><a href="http://www.businessbarbados.com" target="_blank">www.businessbarbados.com</a></p>
   </div>

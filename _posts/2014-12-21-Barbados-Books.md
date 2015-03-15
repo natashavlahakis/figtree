@@ -11,11 +11,11 @@ medium-image: /a/i/img-1-medium.jpg
   </div>
 
   <div class="small-12 medium-6 columns">
-  <p class="lead">Si ut summis velit elit. Anim arbitror ne appellat. Quo nulla cupidatat sempiternum eu senserit nulla enim ab lorem et anim incididunt hic reprehenderit de malis id voluptate a est aliqua exercitation, nulla relinqueret commodo amet pariatur se ubi ex philosophari de dolor offendit hic graviterque.</p>
+  <p class="lead"><i>Miller Publishing Company</i> publish informative business and travel guides, as well as an exciting range of high quality coffee-table books.</p>
   </div>
 
   <div class="small-12 medium-6 columns">
-    <p>Nisi et si tamen nostrud. Aut tempor ea proident, te quorum malis ea doctrina, nisi do nostrud, nulla deserunt a cohaerescant. Cernantur te irure commodo ita fabulas est irure consequat ne ad quo praesentibus, velit incididunt e legam quis.</p>
+    <p>We had the opportunity to develop their showcase website featuring the company’s many publications. The website design was done by <i>809 Design</i>. We built fully content-managed, bespoke website for <i>WordPress CMS</i>.</p>
     <p class="head-font">Website / Graphic Design</p>
     <p class="head-font"><a href="http://www.barbadosbooks.com" target="_blank">www.barbadosbooks.com</a></p>
   </div>
