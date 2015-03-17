@@ -21,9 +21,9 @@ medium-image: /a/i/bks-1-450.jpg
   </div>
 
   <div class="small-12 columns">
-    <p><img data-interchange="[{{ site.url }}/a/i/bks-1-450.jpg, (default)], [{{ site.url }}/a/i/bks-1-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/bks-2-450.jpg, (default)], [{{ site.url }}/a/i/bks-2-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/bks-3-450.jpg, (default)], [{{ site.url }}/a/i/bks-3-970.jpg, (medium)]"></p>
+    <p><img data-interchange="[{{ site.url }}/a/i/bks-4-450.jpg, (default)], [{{ site.url }}/a/i/bks-4-970.jpg, (medium)]"></p>
   </div>
 
 </div>
