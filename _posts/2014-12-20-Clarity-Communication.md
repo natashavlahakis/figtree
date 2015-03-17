@@ -22,9 +22,9 @@ medium-image: /a/i/img-2-medium.jpg
   </div>
 
   <div class="small-12 columns">
-    <p><img data-interchange="[{{ site.url }}/a/i/tdc-1-450.jpg, (default)], [{{ site.url }}/a/i/tdc-1-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/cc-2-450.jpg, (default)], [{{ site.url }}/a/i/cc-2-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/cc-3-450.jpg, (default)], [{{ site.url }}/a/i/cc-3-970.jpg, (medium)]"></p>
+    <p><img data-interchange="[{{ site.url }}/a/i/cc-4-450.jpg, (default)], [{{ site.url }}/a/i/cc-4-970.jpg, (medium)]"></p>
   </div>
 
 </div>
