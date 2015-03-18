@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: projects
-default-image: /a/i/img-2.jpg
-medium-image: /a/i/img-2-medium.jpg
+default-image: /a/i/cc-1-970.jpg
+medium-image: /a/i/cc-1-450.jpg
 ---
 <div class="row">
 
