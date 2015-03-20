@@ -22,7 +22,7 @@ medium-image: /a/i/bdss-1-450.jpg
 
   <div class="small-12 columns">
     <p><img data-interchange="[{{ site.url }}/a/i/bdss-1-450.jpg, (default)], [{{ site.url }}/a/i/bdss-1-970.jpg, (medium)]"></p>
-    <p><img data-interchange="[{{ site.url }}/a/i/tdc-2-450.jpg, (default)], [{{ site.url }}/a/i/tdc-2-970.jpg, (medium)]"></p>
+    <p><img data-interchange="[{{ site.url }}/a/i/bdss-2-450.jpg, (default)], [{{ site.url }}/a/i/bdss-2-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/tdc-3-450.jpg, (default)], [{{ site.url }}/a/i/tdc-3-970.jpg, (medium)]"></p>
   </div>
 
