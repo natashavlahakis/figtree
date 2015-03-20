@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: projects
-default-image: /a/i/bdss-2-970.jpg
-medium-image: /a/i/bdss-2-450.jpg
+default-image: /a/i/bdss-1-970.jpg
+medium-image: /a/i/bdss-1-450.jpg
 ---
 <div class="row">
 
@@ -21,8 +21,8 @@ medium-image: /a/i/bdss-2-450.jpg
   </div>
 
   <div class="small-12 columns">
-    <p><img data-interchange="[{{ site.url }}/a/i/bdss-2-450.jpg, (default)], [{{ site.url }}/a/i/bdss-2-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/bdss-1-450.jpg, (default)], [{{ site.url }}/a/i/bdss-1-970.jpg, (medium)]"></p>
+    <p><img data-interchange="[{{ site.url }}/a/i/bdss-2-450.jpg, (default)], [{{ site.url }}/a/i/bdss-2-970.jpg, (medium)]"></p>
     <p><img data-interchange="[{{ site.url }}/a/i/tdc-3-450.jpg, (default)], [{{ site.url }}/a/i/tdc-3-970.jpg, (medium)]"></p>
   </div>
 
