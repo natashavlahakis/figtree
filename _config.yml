@@ -1,10 +1,10 @@
 # Site settings
 title:        figtree
-email:        hello@figtree-digital.com
+email:        hello@figtree-studio.com
 author:       Natasha Vlahakis
 description:  "A Digital Agency based in Barbados."
-baseurl:      "http://figtree-digital.com"
-url:          "http://figtree-digital.com"
-behance:      figtreedigital
-linkedin:     figtreedigital
-twitter:      figtreedigital
+baseurl:      "http://figtree-studio.com"
+url:          "http://figtree-studio.com"
+behance:      figtreestudio
+linkedin:     figtreestudio
+twitter:      figtreestudio
